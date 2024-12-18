@@ -1,19 +1,16 @@
 # Normativa General PCP 14/12/2024
 
-> [!CAUTION] Zapi baneao
-
 > Redactado por el COP (Comité Organizativo Purchil)
 
-1. [Definición](#1-definición)
-    1. [Objeto](#11-objeto)
-    2. [Comité Organizativo Purchil](#12-comité-organizativo-purchil)
-    3. [Concepto](#13-concepto)
+1. [Definiciones](#1-definiciones)
 2. [Proceso](#2-proceso)
 3. [Derechos](#3-derechos)
+4. [Sanciones](#4-sanciones)
+5. [COP](#5-COP)
 
 ---
 
-## 1. Definición
+## 1. Definiciones
 
 ### 1.1 Objeto
 
@@ -26,6 +23,26 @@ El Comité Organizativo Purchil (*COP*) es `Error: Cannot access private propert
 ### 1.3 Concepto
 
 Un Purchil (*PCP*) es un viaje organizado por el COP cuyos participantes y destino donde se desarrollará serán decididos en última instancia por el COP.
+
+#### 1.3.1. Nomenclatura
+
+La nomenclatura para un Purchil es `Purchil XY`, donde:
+
+##### 1.3.1.1. Según Lugar
+
+- `X` es un número natural el cual se corresponde unívocamente de forma ascendente, empezando desde `1`, con el lugar o conjunto de lugares del Purchil.
+
+##### 1.3.1.2. Según Instancia
+
+- `Y` es una letra la cual se corresponde unívocamente de forma alfabética, empezando desde `A`, con la instancia en la que se va a dicho lugar o conjunto de lugares. Cuando `Y` = `A`, es decir, se estrena un lugar, también es válida la nomenclatura obviando `Y`, es decir, sin usar letra, de forma que quedaría `Purchil X`.
+
+##### 1.3.1.3. Excepción
+
+- La nomenclatura en caso de violación del *Artículo 1.3.2* de este mismo reglamento, la nomenclatura será `Purchil XY*`.
+
+#### 1.3.2. No Saturación
+
+Está terminantemente prohibido realizar un mismo Purchil durante el mismo año a excepción de `Purchil 2C* - Spooky Time`.
 
 ## 2. Proceso
 
@@ -103,29 +120,13 @@ Cuando el destino de un PCP requiera el uso de uno o varios alojamientos, se rea
 
 El horario de un PCP es una característica individual y personal para cada participante, y comienza en el momento en el que se pone en marcha el itinerario personal desde el último hogar sin relación con el Purchil hasta el lugar de inicio general del Purchil y termina cuando finaliza dicho itinerario personal en sentido contrario.
 
----
+#### 2.3.2. Desarrollo
 
-Esto que está entre líneas hay que meterlo la nomenclatura, por lo menos, en concepcion, lo de no saturacion es un puto tema... fff liada xdd (ricardo dice q en el 1 está  golfo pero vamos en una seccion propia dice XD pero bueno)
+Propio viaje que se regirá bajo las normas establecidas en los *Capítulos 3, 4, y 5*.
 
-## 3. Nomenclatura
+#### 2.3.3. Pagos Extra
 
-La nomenclatura para un Purchil es `Purchil XY`, donde:
-
-### 3.1. Según Lugar
-
-- `X` es un número natural el cual se corresponde unívocamente de forma ascendente, empezando desde `1`, con el lugar o conjunto de lugares del Purchil.
-
-### 3.2. Según Instancia
-
-- `Y` es una letra la cual se corresponde unívocamente de forma alfabética, empezando desde `A`, con la instancia en la que se va a dicho lugar o conjunto de lugares. Cuando `Y` = `A`, es decir, se estrena un lugar, también es válida la nomenclatura obviando `Y`, es decir, sin usar letra, de forma que quedaría `Purchil X`.
-
-### 3.3. Excepción
-
-- La nomenclatura en caso de violación de la *RP5* de este mismo reglamento, la nomenclatura será `Purchil XY*`.
-
-## 4. No Saturación
-
-Está terminantemente prohibido realizar un mismo Purchil durante el mismo año a excepción de `Purchil 2C* - Spooky Time`.
+Cantidad monetaria a pagar referida a los aspectos ajenos a los administrados por el COP mencionados anteriormente.
 
 ---
 
@@ -139,7 +140,7 @@ Cuando un Purchil requiera el uso de un vehículo personal, se hará caso en pri
 
 #### 3.1.2. Según Participantes
 
-Si al conductor habitual de un vehículo personal le es indiferente la elección de asientos personales en dicho vehículo, se procederá a dicha elección según las *RP5.2.1* y *RP5.2.2* entre los asientos disponibles en ese momento.
+Si al conductor habitual de un vehículo personal le es indiferente la elección de asientos personales en dicho vehículo, se procederá a dicha elección según los *Subartículos 3.1.2.1 y 3.1.2.2* entre los asientos disponibles en ese momento.
 
 ##### 3.1.2.1. Mismo Orden de Llegada
 
@@ -147,11 +148,33 @@ En caso de que todos los participantes que soliciten el mismo asiento de un veh�
 
 ##### 3.1.2.2. Distinto Orden de Llegada
 
-En caso de que los participantes que soliciten el mismo asiento de un vehículo personal no se reúnan en el mismo punto de reunión, perteneciente al trayecto del vehículo, será el participante del primer punto de reunión por el que pasa el vehículo el que obtenga el asiento y, en caso de que en el primer punto haya un grupo de participantes en vez de uno solo, se aplicará el *Apartado 3.1.2.1*.
+En caso de que los participantes que soliciten el mismo asiento de un vehículo personal no se reúnan en el mismo punto de reunión, perteneciente al trayecto del vehículo, será el participante del primer punto de reunión por el que pasa el vehículo el que obtenga el asiento y, en caso de que en el primer punto haya un grupo de participantes en vez de uno solo, se aplicará el *Subartículo 3.1.2.1*.
 
-## 4. Sanciones :angry:
+### 3.2. Plazas de Descanso
+
+Cuando un PCP requiera el uso de plazas de descanso, el reparto de estas se realizará siguiendo el procedimiento a continuación descrito:
+
+1. Se definen los siguientes conceptos:
+- **Plaza Física**: La unidad tangible que se corresponde exactamente con la plaza de descanso. Ej. Cama doble.
+- **Plaza Lógica**:  Subdivisión dentro de una plaza física correspondiente a una sola persona. Ej. Uno de los dos espacios de una cama doble.
+- **Principio de Maximización del Espacio**: Principio que busca que la menor gente posible se quede sin plaza lógica. Como norma general, se aplicará en toda la actual *Sección 3.2*.
+2. Se determinará un día y hora concreta para celebrar en el grupo una elección de participaciones individuales en una plaza física.
+Si los participantes que eligen una plaza física igualan o superan al número de plazas lógicas que ésta tiene, la elección será válida.
+En caso contrario, el participante correspondiente tendrá menor prioridad que los participantes cuya elección sea válida y no entrará en consecuencia al sorteo descrito a continuación, todo ello con objeto de aplicar el Principio de Maximización del Espacio.
+4. Como norma general, 24 horas después, se ejecutará un sorteo equitativo, controlado por un miembro cualquiera del COP, por cada plaza física en disputa entre los participantes que la hayan solicitado.
+5. Cada ganador del sorteo obtiene la plaza física disputada. El conjunto de perdedores recurrirá a una siguiente iteración de los *Pasos 2, 3, 4 y 5* con las condiciones obtenidas recién concluido el sorteo hasta que no queden plazas físicas disponibles.
+
+### 3.3. Conducción de Vehículos Personales
+
+Cuando un PCP haga uso de vehículos personales, 
+
+## 4. Sanciones
 
 ### 4.1. Ya se verá.
+
+XD
+
+## 5. COP
 
 ## RP. Integridad de Metainformación
 
