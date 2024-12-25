@@ -2,59 +2,58 @@
 
 > Redactado por el COP (Comité Organizativo Purchil)
 
-1. [Definiciones](#1-definiciones)
-    1.1. [Objeto](#11-objeto)
-    1.2. [Comité Organizativo Purchil](#12-comité-organizativo-purchil)
-    1.3. [Concepto](#13-concepto)
-        1.3.1. [Nomenclatura](#131-nomenclatura)
-            1.3.1.1. [Según Lugar](#1311-según-lugar)
-            1.3.1.2. [Según Instancia](#1312-según-instancia)
-            1.3.1.3. [Excepción](#1313-excepción)
-        1.3.2. [No Saturación](#132-no-saturación)
-    1.4. [Plazas Reservables](#14-plazas-reservables)
-        1.4.1. [Plaza Física](#141-plaza-física)
-        1.4.2. [Plaza Lógica](#142-plaza-lógica)
-        1.4.3. [Principio de Maximización del Espacio](#143-principio-de-maximización-del-espacio)
-2. [Proceso](#2-proceso)
-    2.1. [Concepción](#21-concepción)
-        2.1.1. [Definición](#211-definición)
-        2.1.2. [Idea](#212-idea)
-        2.1.3. [Fecha Inicial](#213-fecha-inicial)
-        2.1.4. [Presupuesto Inicial](#214-presupuesto-inicial)
-        2.1.5. [Destino Inicial](#215-destino-inicial)
-        2.1.6. [Participantes Iniciales](#216-participantes-iniciales)
-        2.1.7. [Modelo de Transporte Inicial](#217-modelo-de-transporte-inicial)
-    2.2 [Organización](#22-organización)
-        2.2.1. [Definición](#221-definición)
-        2.2.2. [Fecha Definitiva](#222-fecha-definitiva)
-        2.2.3. [Presupuesto Definitivo](#223-presupuesto-definitivo)
-        2.2.4. [Destino Definitivo](#224-destino-definitivo)
-        2.2.5. [Pagos y Reserva de Alojamientos](#225-pagos-y-reserva-de-alojamientos)
-        2.2.6. [Participantes Definitivos](#226-participantes-definitivos)
-        2.2.7. [Transporte Definitivo](#227-transporte-definitivo)
-        2.2.8. [Alojamiento](#228-alojamiento)
-    2.3. [Ejecución](#23-ejecución)
-        2.3.1. [Horario](#231-horario)
-        2.3.2. [Desarrollo](#232-desarrollo)
-        2.3.3. [Pagos Extra](#233-pagos-extra)
-3. [Derechos](#3-derechos)
-    3.1. [Asientos en Vehículo Personal](#31-asientos-en-vehículo-personal)
-        3.1.1. [Según Conductor](#311-según-conductor)
-        3.1.2. [Según Participantes](#312-según-participantes)
-            3.1.2.1. [Mismo Orden de Llegada](#3121-mismo-orden-de-llegada)
-            3.1.2.2. [Distinto Orden de Llegada](#3122-distinto-orden-de-llegada)
-    3.2 [Plazas de Descanso](#32-plazas-de-descanso)
-    3.3 [Conducción de Vehículos Personales](#33-conducción-de-vehículos-personales)
-        3.3.1. [Logísticamente Distintos](#331-logísticamente-distintos)
-        3.3.2. [Logísticamente Equivalentes](#332-logísticamente-equivalentes)
-4. [Obligaciones](#4-obligaciones)
-    4.1. [Participantes](#41-participantes)
-    4.2. [COP](#42-cop)
-5. [Sanciones](#5-sanciones)
-    5.1. [Pago y Reserva de Alojamientos](#51-pago-y-reserva-de-alojamientos)
-    5.2. [Transporte Definitivo](#52-transporte-definitivo)
-
-6. [Estado de Excepción](#6-estado-de-excepción)
+- [1. Definiciones](#1-definiciones)
+    - [1.1. Objeto](#11-objeto)
+    - [1.2. Comité Organizativo Purchil](#12-comité-organizativo-purchil)
+    - [1.3. Concepto](#13-concepto)
+        - [1.3.1. Nomenclatura](#131-nomenclatura)
+            - [1.3.1.1. Según Lugar](#1311-según-lugar)
+            - [1.3.1.2. Según Instancia](#1312-según-instancia)
+            - [1.3.1.3. Excepción](#1313-excepción)
+        - [1.3.2. No Saturación](#132-no-saturación)
+    - [1.4. Plazas Reservables](#14-plazas-reservables)
+        - [1.4.1. Plaza Física](#141-plaza-física)
+        - [1.4.2. Plaza Lógica](#142-plaza-lógica)
+        - [1.4.3. Principio de Maximización del Espacio](#143-principio-de-maximización-del-espacio)
+- [2. Proceso](#2-proceso)
+    - [2.1. Concepción](#21-concepción)
+        - [2.1.1. Definición](#211-definición)
+        - [2.1.2. Idea](#212-idea)
+        - [2.1.3. Fecha Inicial](#213-fecha-inicial)
+        - [2.1.4. Presupuesto Inicial](#214-presupuesto-inicial)
+        - [2.1.5. Destino Inicial](#215-destino-inicial)
+        - [2.1.6. Participantes Iniciales](#216-participantes-iniciales)
+        - [2.1.7. Modelo de Transporte Inicial](#217-modelo-de-transporte-inicial)
+    - [2.2 Organización](#22-organización)
+        - [2.2.1. Definición](#221-definición)
+        - [2.2.2. Fecha Definitiva](#222-fecha-definitiva)
+        - [2.2.3. Presupuesto Definitivo](#223-presupuesto-definitivo)
+        - [2.2.4. Destino Definitivo](#224-destino-definitivo)
+        - [2.2.5. Pagos y Reserva de Alojamientos](#225-pagos-y-reserva-de-alojamientos)
+        - [2.2.6. Participantes Definitivos](#226-participantes-definitivos)
+        - [2.2.7. Transporte Definitivo](#227-transporte-definitivo)
+        - [2.2.8. Alojamiento](#228-alojamiento)
+    - [2.3. Ejecución](#23-ejecución)
+        - [2.3.1. Horario](#231-horario)
+        - [2.3.2. Desarrollo](#232-desarrollo)
+        - [2.3.3. Pagos Extra](#233-pagos-extra)
+- [3. Derechos](#3-derechos)
+    - [3.1. Asientos en Vehículo Personal](#31-asientos-en-vehículo-personal)
+        - [3.1.1. Según Conductor](#311-según-conductor)
+        - [3.1.2. Según Participantes](#312-según-participantes)
+            - [3.1.2.1. Mismo Orden de Llegada](#3121-mismo-orden-de-llegada)
+            - [3.1.2.2. Distinto Orden de Llegada](#3122-distinto-orden-de-llegada)
+    - [3.2 Plazas de Descanso](#32-plazas-de-descanso)
+    - [3.3 Conducción de Vehículos Personales](#33-conducción-de-vehículos-personales)
+        - [3.3.1. Logísticamente Distintos](#331-logísticamente-distintos)
+        - [3.3.2. Logísticamente Equivalentes](#332-logísticamente-equivalentes)
+- [4. Obligaciones](#4-obligaciones)
+    - [4.1. Participantes](#41-participantes)
+    - [4.2. COP](#42-cop)
+- [5. Sanciones](#5-sanciones)
+    - [5.1. Pago y Reserva de Alojamientos](#51-pago-y-reserva-de-alojamientos)
+    - [5.2. Transporte Definitivo](#52-transporte-definitivo)
+- [6. Estado de Excepción](#6-estado-de-excepción)
 
 Anexo I. [Tabla de Costos de Sanciones Tipo III y IV](#anexo-i-tabla-de-costos-de-sanciones-tipo-iii-y-iv)
 
@@ -67,6 +66,8 @@ Anexo I. [Tabla de Costos de Sanciones Tipo III y IV](#anexo-i-tabla-de-costos-d
 ### 1.1. Objeto
 
 La Normativa General para Planes Clasificados como Purchil ([PCP](#13-concepto)) es el reglamento constituido para la gestión de la logística asociada a los propios confeccionada por el [COP](#12-comité-organizativo-purchil) con el fin de evitar conflictos futuros.
+
+Esta normativa carece de carácter retroactivo.
 
 ### 1.2. Comité Organizativo Purchil
 
@@ -82,7 +83,7 @@ La nomenclatura para un [PCP](#13-concepto) es `Purchil XY`, donde:
 
 ##### 1.3.1.1. Según Lugar
 
-- `X` es un número natural el cual se corresponde unívocamente de forma ascendente, empezando desde `1`, con el lugar o conjunto de lugares del [PCP](#13-concepto).
+- `X` es un número natural el cual se corresponde unívocamente de forma ascendente, empezando desde `1`, con el lugar o conjunto de lugares del [PCP](#13-concepto). Cuando `X` = `1`, es decir, el lugar es Purchil, también es válida la nomenclatura obviando `X`, es decir, sin usar número, de forma que quedaría `Purchil Y`, o, en su defecto obviando `XY`, es decir, `Purchil`.
 
 ##### 1.3.1.2. Según Instancia
 
@@ -90,7 +91,7 @@ La nomenclatura para un [PCP](#13-concepto) es `Purchil XY`, donde:
 
 ##### 1.3.1.3. Excepción
 
-- La nomenclatura en caso de violación del [*Artículo 1.3.2*](#132-no-saturación) de este mismo reglamento, la nomenclatura será `Purchil XY*`.
+- En caso de violación del [*Artículo 1.3.2*](#132-no-saturación), la nomenclatura será `Purchil XY*`.
 
 #### 1.3.2. No Saturación
 
@@ -108,7 +109,7 @@ Subdivisión dentro de una plaza física correspondiente a una sola persona. Ej.
 
 #### 1.4.3. Principio de Maximización del Espacio
 
-Principio que busca que la menor gente posible se quede sin plaza lógica. Como norma general, se aplicará en las *Secciones [3.2](#32-plazas-de-descanso)* y *[3.3](#33-conducción-de-vehículos-personales)*.
+Principio que busca que la menor gente posible se quede sin [plaza lógica](#142-plaza-lógica). Como norma general, se aplicará en las *Secciones [3.2](#32-plazas-de-descanso)* y *[3.3](#33-conducción-de-vehículos-personales)*.
 
 ---
 
@@ -197,12 +198,13 @@ El horario de un [PCP](#13-concepto) es una característica individual y persona
 
 #### 2.3.2. Desarrollo
 
-Propio viaje que se regirá bajo las normas establecidas en los *Capítulos [3](#3-derechos)*, *[4](#4-obligaciones)*, y *[5](#5-sanciones)*.
+Propio viaje que se regirá bajo las normas establecidas en los *Capítulos [3](#3-derechos)*, *[4](#4-obligaciones)*, *[5](#5-sanciones)* y *[6](#6-estado-de-excepción)*.
 
 #### 2.3.3. Pagos Extra
 
 Cantidad monetaria a pagar referida a los aspectos ajenos a los administrados por el [COP](#12-comité-organizativo-purchil) mencionados anteriormente.
-Si la longitud del viaje está prácticamente determinada, los conductores de los vehículos personales usarán la página web [https://www.dieselogasolina.com](https://www.dieselogasolina.com) para calcular costes de gasolina. En caso contrario, se llenará el tanque de gasolina antes y después del [PCP](#13-concepto). El precio será esta vez el que precisa esta diferencia de gasolina.
+
+Si la longitud del viaje está prácticamente determinada, los conductores de los vehículos personales usarán la página web [https://www.dieselogasolina.com](https://www.dieselogasolina.com) para calcular costes de combustible. En caso contrario, se llenará el tanque de combustible antes y después del [PCP](#13-concepto). El precio será esta vez el que precisa esta diferencia de combustible.
 
 ---
 
@@ -339,18 +341,44 @@ Esta tabla recoge el costo que acarrea a cada uno de los participantes debido a 
 
 <div style="page-break-after: always;"></div>
 
-$$
-\begin{flushright}
-\begin{minipage}[t]{0.4\textwidth}
-    \centering
-    \textbf{Doy consentimiento} \\[2em]
-    \framebox[0.9\width]{\phantom{Firma}} \\[2em]
-\end{minipage}
-\hspace{1cm}
-\begin{minipage}[t]{0.4\textwidth}
-    \centering
-    \textbf{Doy fe} \\[2em]
-    \framebox[0.9\width]{\phantom{Firma}} \\[2em]
-\end{minipage}
-\end{flushright}
-$$
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recuadros de Firma</title>
+    <style>
+        .container {
+            display: flex;
+            justify-content: space-between;
+            width: 80%;
+            margin: 20px auto;
+        }
+        .firma-container {
+            text-align: center;
+        }
+        .firma-texto {
+            margin-bottom: 10px;
+        }
+        .firma {
+            border: 3px solid black;
+            width: 200px;
+            height: 100px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="firma-container">
+            <p class="firma-texto">COP</p>
+            <div class="firma"></div>
+        </div>
+        <div class="firma-container">
+            <p class="firma-texto">Representante del pueblo</p>
+            <div class="firma"></div>
+        </div>
+    </div>
+</body>
+</html>
+
