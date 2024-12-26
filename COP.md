@@ -141,7 +141,7 @@ Lugar o conjunto de lugares de un [PCP](#13-concepto) determinado en función de
 
 #### 2.1.6. Participantes Iniciales
 
-Conjunto de personas asistentes a un [PCP](#13-concepto) determinados como tal por el [COP](#12-comité-organizativo-purchil) inicialmente.
+Conjunto de personas asistentes a un [PCP](#13-concepto) determinados como tal por el [COP](#12-comité-organizativo-purchil) inicialmente teniendo en cuenta la disponibilidad personal de cada uno como aspecto principal.
 
 #### 2.1.7. Modelo de Transporte Inicial
 
@@ -184,7 +184,7 @@ Conjunto de personas asistentes a un [PCP](#13-concepto) determinados como tal p
 
 #### 2.2.7. Transporte Definitivo
 
-Conjunto de medios de transporte que se usarán de forma definitiva en un [PCP](#13-concepto). Cuando los medios de transporte de un PCP incluyan vehículos de uso personal, se realizará la asignación de asientos según la [*Sección 3.1*](#31-asientos-en-vehículo-personal).
+Conjunto de medios de transporte que se usarán de forma definitiva en un [PCP](#13-concepto). Cuando los medios de transporte de un PCP incluyan vehículos de uso personal, se realizará la asignación de asientos según la [*Sección 3.1*](#31-asientos-en-vehículo-personal). No tendrá por qué ser el mismo a la ida que a la vuelta necesariamente.
 
 #### 2.2.8. Alojamiento
 
@@ -249,7 +249,7 @@ Cuando un [PCP](#13-concepto) haga uso de vehículos personales, se valorarán q
 En primera instancia, la elección de coches se regirá por disponibilidad y, en segundo lugar por precio.
 
 - **Disponibilidad**: Se priorizarán los vehículos que estén disponibles en el momento de la necesidad, teniendo en cuenta su ubicación, tiempo de preparación y capacidad de transporte, entre otros factores.
-- **Precio**: El costo asociado al uso del vehículo. Si algún vehículo personal debe abandonar el [PCP](#13-concepto) antes de su fin, no se pagará el costo que este desplazamiento conlleve.
+- **Precio**: El costo asociado al uso del vehículo. Existirá pago comunitario para todos los vehículos personales, aplicando, como norma general, el [Principio de Maximización del Espacio](#143-principio-de-maximización-del-espacio). Si algún vehículo personal debe abandonar el [PCP](#13-concepto) antes de su fin, no se pagará el costo que este desplazamiento conlleve.
 
 #### 3.3.2. Logísticamente Equivalentes
 
@@ -283,6 +283,7 @@ En caso de que todos los vehículos candidatos resulten logísticamente equivale
 8. Anunciar el día y hora para la elección de plazas de descanso según la [*Sección 3.2*](#32-plazas-de-descanso).
 9. Validar sorteos sobre plazas de descanso según la [*Sección 3.2*](#32-plazas-de-descanso).
 10. Aplicar como norma general el [Principio de Maximización del Espacio](#143-principio-de-maximización-del-espacio).
+11. Gestionar todo caso no contemplado explicítamente en esta normativa bajo los parámetros de la misma.
 
 ---
 
@@ -313,6 +314,8 @@ Esta sección contiene dos sanciones referidas al [*Artículo 2.2.7*](#227-trans
 ---
 
 ## 6. Estado de Excepción
+
+> Integridad de Metainformación
 
 El [COP](#12-comité-organizativo-purchil) asume el control absoluto sobre todas las decisiones y ámbitos, siempre que así se determine de forma unánime. En caso necesario, podría implicar la caída de la vigencia parcial o total de este reglamento.
 
