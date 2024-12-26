@@ -346,10 +346,7 @@ Esta tabla recoge el costo que acarrea a cada uno de los participantes debido a 
 
 <!DOCTYPE html>
 <html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Recuadros de Firma</title>
+<body>
     <style>
         .container {
             display: flex;
@@ -370,8 +367,6 @@ Esta tabla recoge el costo que acarrea a cada uno de los participantes debido a 
             margin: 0 auto;
         }
     </style>
-</head>
-<body>
     <div class="container">
         <div class="firma-container">
             <p class="firma-texto">COP</p>
