@@ -1,3 +1,4 @@
+
 # Normativa General PCP 25/12/2024
 
 > Redactado por el COP (Comité Organizativo Purchil)
@@ -55,7 +56,8 @@
     - [5.2. Transporte Definitivo](#52-transporte-definitivo)
 - [6. Estado de Excepción](#6-estado-de-excepción)
 
-Anexo. [Tabla de Costos de Sanciones Tipo III y IV](#anexo-tabla-de-costos-de-sanciones-tipo-iii-y-iv)
+Anexo I. [Tabla de Costos de Sanciones Tipo III y IV](#anexo-i-tabla-de-costos-de-sanciones-tipo-iii-y-iv)
+Anexo II. [Función de Sanción por Abandono del Conductor](#anexo-ii-funcion-de-sancion-por-abandono-del-conductor)
 
 ---
 
@@ -83,14 +85,15 @@ La nomenclatura para un [PCP](#13-concepto) es `Purchil XY`, donde:
 
 ##### 1.3.1.1. Según Lugar
 
-- `X` es un número natural el cual se corresponde unívocamente de forma ascendente, empezando desde `1`, con el lugar o conjunto de lugares del [PCP](#13-concepto). Cuando `X` = `1`, es decir, el lugar es Purchil, también es válida la nomenclatura obviando `X`, es decir, sin usar número, de forma que quedaría `Purchil Y`.
+- `X` es un número natural el cual se corresponde unívocamente de forma ascendente, empezando desde `1`, con el lugar o conjunto de lugares del [PCP](#13-concepto). Si `X` = `1`, es decir, el lugar es Purchil, también es válida la nomenclatura obviando `X`, es decir, sin usar número, de forma que quedaría `Purchil Y`.
 
 ##### 1.3.1.2. Según Instancia
 
-- `Y` es una letra la cual se corresponde unívocamente de forma alfabética, empezando desde `A`, con la instancia en la que se va a dicho lugar o conjunto de lugares. Cuando `Y` = `A`, es decir, se estrena un lugar, también es válida la nomenclatura obviando `Y`, es decir, sin usar letra, de forma que quedaría `Purchil X`.
+- `Y` es una letra la cual se corresponde unívocamente de forma alfabética, empezando desde `A`, con la instancia en la que se va a dicho lugar o conjunto de lugares. Si `Y` = `A`, es decir, se estrena un lugar, también es válida la nomenclatura obviando `Y`, es decir, sin usar letra, de forma que quedaría `Purchil X`.
 
-##### 1.3.1.3. Excepción
+##### 1.3.1.3. Excepciones
 
+- Si `X` = `1` y `Y` = `A`, es decir, el lugar es Purchil y se estrena, también es válida la nomenclatura obviando `XY`, es decir, sin usar número ni letra, de forma que quedaría `Purchil`.
 - Si ocurre una violación del [*Artículo 1.3.2*](#132-no-saturación), la nomenclatura es `Purchil XY*`.
 
 #### 1.3.2. No Saturación
@@ -175,12 +178,13 @@ Lugar o conjunto de lugares de un [PCP](#13-concepto) determinado en función de
 
 Cantidad monetaria a pagar referida a la reserva de alojamientos en un [PCP](#13-concepto) constituida por cada una de las aportaciones individuales de los participantes equitativamente o definida por el [COP](#12-comité-organizativo-purchil) en casos excepcionales.
 
-Este artículo se rige bajo un proceso que consta de dos fases:
+Este artículo se rige bajo un proceso que consta de tres fases:
 
 1. **Confirmación de asistencia**.
 2. **Aportación económica**.
+3. **Pago a entidad externa**.
 
-Al comenzar la primera fase, los participantes son informados del monto a pagar referido a los alojamientos. Una vez notificados, estos confirman su asistencia en función de dicha información. Como norma general, 24 horas antes de terminar esta fase, el COP informa a los participantes el inminente fin de la misma. Si un participante no ha mostrado señal alguna de confirmación al concluir la primera fase, se le da estatus de confirmado. Una vez dado paso a la segunda fase, se procede a recaudar el dinero de todos los participantes. Cuando esta termine, ya no se aceptan más pagos.
+Al comenzar la primera fase, los participantes son informados del monto a pagar referido a los alojamientos. Una vez notificados, estos confirman su asistencia en función de dicha información. Como norma general, 24 horas antes de terminar esta fase, el COP informa a los participantes el inminente fin de la misma. Si un participante no ha mostrado señal alguna de confirmación al concluir la primera fase, se le da estatus de confirmado. Una vez dado paso a la segunda fase, se procede a recaudar el dinero de todos los participantes. Cuando esta termine, ya no se aceptan más pagos y comienza la tercera fase. En la tercera fase, el COP realiza los pagos correspondientes a la entidad externa que gestione el alojamiento hasta que ésta termine dando paso a la ejecución del PCP.
 
 Todas las sanciones referidas al presente artículo se encuentran en la [*Sección 5.1*](#51-pago-y-reserva-de-alojamientos).
 
@@ -191,6 +195,8 @@ Conjunto de personas asistentes a un [PCP](#13-concepto) determinados como tal p
 #### 2.2.7. Transporte Definitivo
 
 Conjunto de medios de transporte que se usan de forma definitiva en un [PCP](#13-concepto). Cuando el conjunto de medios de transporte de un PCP incluye vehículos de uso personal, se realiza la asignación de asientos según la [*Sección 3.1*](#31-asientos-en-vehículo-personal). El transporte definitivo a la ida no tiene por qué ser el mismo a la vuelta necesariamente.
+
+Los conductores de vehículos personales que asistan tienen un plazo adicional que busca la no aplicación del agravante descrito en la sanción por abandono de la [Sección 5.2](#52-transporte-definitivo). Esta fase parte desde la notificación de abandono de este participante hasta 4 días antes del comienzo de la ejecución del PCP.
 
 #### 2.2.8. Alojamiento
 
@@ -302,24 +308,40 @@ Si todos los vehículos candidatos resultan logísticamente equivalentes, la ele
 ### 5.1. Pago y Reserva de Alojamientos
 
 El conjunto de sanciones referidas al [*Artículo 2.2.5*](#225-pagos-y-reserva-de-alojamientos) está dividido en los siguientes tipos:
-- **Tipo I**: El participante abandona en la segunda fase y se encuentra sustituto.
-- **Tipo II**: El participante abandona en la segunda fase y no se encuentra sustituto.
+
+- **Tipo I**: El participante abandona en segunda o tercera fase y se encuentra sustituto.
+- **Tipo II**: El participante abandona en segunda o tercera fase y no se encuentra sustituto.
 - **Tipo III**: El participante no abona su cantidad correspondiente tras concluir la segunda fase.
-- **Tipo IV**: El participante abandona en la segunda fase, no se encuentra sustituto y no cumple con la sanción de **Tipo II**.
+- **Tipo IV**: El participante abandona en segunda o tercera fase, no se encuentra sustituto y no cumple con la sanción de **Tipo II**.
 
 | Tipo | Sanción |
 | -  | - |
 | I | Exclusión del próximo [PCP](#13-concepto) |
 | II | Exclusión del próximo PCP y pago correspondiente |
-| III | Exclusión de todos los PCP según el [Anexo](#anexo-tabla-de-costos-de-sanciones-tipo-iii-y-iv) |
-| IV | Exclusión de todos los PCP según el [Anexo](#anexo-tabla-de-costos-de-sanciones-tipo-iii-y-iv) |
+| III | Exclusión de todos los PCP según el [Anexo I](#anexo-i-tabla-de-costos-de-sanciones-tipo-iii-y-iv) |
+| IV | Exclusión de todos los PCP según el [Anexo I](#anexo-i-tabla-de-costos-de-sanciones-tipo-iii-y-iv) |
 
 ### 5.2. Transporte Definitivo
 
 Esta sección contiene dos sanciones referidas al [*Artículo 2.2.7*](#227-transporte-definitivo).
 
-1. **Sanción por abandono**. Consiste en el abandono del [PCP](#13-concepto) por parte de un participante cuyo vehículo personal es necesario para la ejecución de dicho PCP. Este tipo de sanción es un agravante de las descritas en la [*Sección 5.1*](#51-pago-y-reserva-de-alojamientos) y agregan 3 PCP a la pena estipulada en ésta.
+1. **Sanción por abandono**. Consiste en el abandono del [PCP](#13-concepto) por parte de un participante cuyo vehículo personal es necesario para la ejecución de dicho PCP. Este tipo de sanción es un agravante de las descritas en la [*Sección 5.1*](#51-pago-y-reserva-de-alojamientos) y agrega la pena estipulada en el [Anexo II](#anexo-ii-funcion-de-sancion-por-abandono-del-conductor).
 2. **Sanción por uso indebido del vehículo**. Consiste en el desacato de la organización ratificada por el [COP](#12-comité-organizativo-purchil) y acarrea la exclusión de los próximos 10 PCP.
+
+### 5.3. Ejecución
+
+Si un participante abandona en fase de ejecución sin previo aviso al [COP](#12-comité-organizativo-purchil), se le aplica una sanción de 5 [PCP](#13-concepto).
+
+### 5.4. Justificaciones
+
+En esta sección se detallan una lista de motivos aprobados por el [COP](#12-comité-organizativo-purchil) como fuerza mayor, como norma general:
+
+- Accidentes típicos, caso o blancos ratificados por el COP.
+- Enfermedad a discrección del COP.
+- Enfermedad grave.
+- Fallecimiento de familar hasta cuarto grado de consanguinidad o afinidad.
+- Obligaciones laborales, académicas, legales o examinatorias inaplazables que hayan surgido a partir de la segunda fase de la organización justificadas.
+- Otros motivos de fuerza mayor.
 
 ---
 
@@ -333,22 +355,57 @@ El [COP](#12-comité-organizativo-purchil) asume el control absoluto sobre todas
 
 <div style="page-break-after: always;"></div>
 
-## Anexo. Tabla de Costos de Sanciones Tipo III y IV
+## Anexo I. Tabla de Costos de Sanciones Tipo III y IV
 
 Esta tabla recoge el costo que acarrea a cada uno de los participantes debido a las sanciones de **Tipo III** y **IV**.
 
 | Tipo | Rango | Sanción |
 | - | - | - |
-| III | < 1 € | Exclusión de los próximos 2 PCP |
-| III | 1 - 3 € | Exclusión de los próximos 3 PCP |
-| III | 3 - 6 € | Exclusión de los próximos 5 PCP |
-| III | 6 - 10 € | Exclusión de los próximos 7 PCP |
-| III | > 10 € | Exclusión de los PCP celebrados durante los próximos 18 meses |
-| IV | < 1 € | Exclusión de los próximos 12 PCP |
-| IV | 1 - 3 € | Exclusión de los próximos 9 PCP |
-| IV | 3 - 6 € | Exclusión de los PCP celebrados durante los próximos 15 meses |
-| IV | 6 - 10 € | Exclusión de los PCP celebrados durante los próximos 2 años |
-| IV | > 10 € | Exclusión permanente de los PCP |
+| **III** | < 1 € | Exclusión de los próximos 2 PCP |
+| **III** | 1 - 3 € | Exclusión de los próximos 3 PCP |
+| **III** | 3 - 6 € | Exclusión de los próximos 5 PCP |
+| **III** | 6 - 10 € | Exclusión de los próximos 7 PCP |
+| **III** | > 10 € | Exclusión de los PCP celebrados durante los próximos 18 meses |
+| **IV** | < 1 € | Exclusión de los próximos 12 PCP |
+| **IV** | 1 - 3 € | Exclusión de los próximos 9 PCP |
+| **IV** | 3 - 6 € | Exclusión de los PCP celebrados durante los próximos 15 meses |
+| **IV** | 6 - 10 € | Exclusión de los PCP celebrados durante los próximos 2 años |
+| **IV** | > 10 € | Exclusión permanente de los PCP |
+
+---
+
+## Anexo II. Función de Sanción por Abandono del Conductor
+
+Esta función define la sanción correspondiente al abandono del conductor descrita en la primera parte de la [Sección 5.2](#52-transporte-definitivo).
+
+Una vez ha acabado la fase de abandono de la conducción de vehículos personales, se aplica la siguiente función:
+
+$$S(t) = \left\lfloor \frac{5250}{\left(96 - \left\lfloor t \right\rfloor \right)^2} \right\rfloor + 1$$
+
+donde:
+
+$$t \in \mathbb{R}, 0 \leq t < 96$$
+
+$$S(t) \in \mathbb{N}$$
+
+y $t$ es el tiempo que transcurre desde el fin de dicha fase de abandono hasta que el conductor manifiesta su no conducción, valor que, según el [Artículo 2.2.7](#227-transporte-definitivo) no durará más de 4 días (96 horas).
+
+El tiempo ($t$) es medido en horas, mientras que la sanción ($S(t)$) es medida en PCP.
+
+
+> Tabla de valores con información representativa de la función:
+
+| $t$ <br> (horas) | $S(t)$ <br> (PCP) |
+| - | - |
+| 0 | 1 |
+| 12 | 1 |
+| 24 | 2 |
+| 36 | 2 |
+| 48 | 3 |
+| 60 | 5 |
+| 72 | 10 |
+| 84 | 53 |
+| 96 | $\infin$ |
 
 ---
 
@@ -397,4 +454,3 @@ Esta tabla recoge el costo que acarrea a cada uno de los participantes debido a 
     </div>
 </body>
 </html>
-
