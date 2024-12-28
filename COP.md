@@ -57,6 +57,7 @@
 - [6. Estado de Excepción](#6-estado-de-excepción)
 
 Anexo I. [Tabla de Costos de Sanciones Tipo III y IV](#anexo-i-tabla-de-costos-de-sanciones-tipo-iii-y-iv)
+
 Anexo II. [Función de Sanción por Abandono del Conductor](#anexo-ii-función-de-sanción-por-abandono-del-conductor)
 
 ---
