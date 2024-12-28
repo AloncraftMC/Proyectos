@@ -57,7 +57,7 @@
 - [6. Estado de Excepción](#6-estado-de-excepción)
 
 Anexo I. [Tabla de Costos de Sanciones Tipo III y IV](#anexo-i-tabla-de-costos-de-sanciones-tipo-iii-y-iv)
-Anexo II. [Función de Sanción por Abandono del Conductor](#anexo-ii-funcion-de-sancion-por-abandono-del-conductor)
+Anexo II. [Función de Sanción por Abandono del Conductor](#anexo-ii-función-de-sanción-por-abandono-del-conductor)
 
 ---
 
@@ -325,7 +325,7 @@ El conjunto de sanciones referidas al [*Artículo 2.2.5*](#225-pagos-y-reserva-d
 
 Esta sección contiene dos sanciones referidas al [*Artículo 2.2.7*](#227-transporte-definitivo).
 
-1. **Sanción por abandono**. Consiste en el abandono del [PCP](#13-concepto) por parte de un participante cuyo vehículo personal es necesario para la ejecución de dicho PCP. Este tipo de sanción es un agravante de las descritas en la [*Sección 5.1*](#51-pago-y-reserva-de-alojamientos) y agrega la pena estipulada en el [Anexo II](#anexo-ii-funcion-de-sancion-por-abandono-del-conductor).
+1. **Sanción por abandono**. Consiste en el abandono del [PCP](#13-concepto) por parte de un participante cuyo vehículo personal es necesario para la ejecución de dicho PCP. Este tipo de sanción es un agravante de las descritas en la [*Sección 5.1*](#51-pago-y-reserva-de-alojamientos) y agrega la pena estipulada en el [Anexo II](#anexo-ii-función-de-sanción-por-abandono-del-conductor).
 2. **Sanción por uso indebido del vehículo**. Consiste en el desacato de la organización ratificada por el [COP](#12-comité-organizativo-purchil) y acarrea la exclusión de los próximos 10 PCP.
 
 ### 5.3. Ejecución
