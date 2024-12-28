@@ -405,7 +405,7 @@ El tiempo ($t$) es medido en horas, mientras que la sanción ($S(t)$) es medida 
 | 60 | 5 |
 | 72 | 10 |
 | 84 | 53 |
-| 96 | $\infin$ |
+| 96 | ∞ |
 
 ---
 
