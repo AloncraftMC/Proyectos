@@ -59,7 +59,7 @@
 
         function updateAltitude() {
             navigator.geolocation.getCurrentPosition((position) => {
-                if (position.coords.altitude !== null) {
+                if (position.coords.altitude !== null && position.coords.altitude !== "") {
                     stopAnimation();
                     altitudH1.innerText = `${position.coords.altitude.toFixed(2)}m`;
                 } else {
