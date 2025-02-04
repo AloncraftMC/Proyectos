@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Altitud en Tiempo Real</title>
+</head>
+<body>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap');
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: 'Rubik', sans-serif;
+            background-color: black;
+            color: white;
+        }
+        div {
+            text-align: center;
+            border: 10px solid white;
+            border-radius: 50px;
+            padding: 50px;
+            width: 80%;
+        }
+        h1 {
+            font-size: 10rem;
+            margin: 0;
+        }
+        h2 {
+            margin: 0;
+            font-size: 7rem;
+        }
+    </style>
+    <div>
+        <h2>Altitud</h2>
+        <h1 id="altitudH1"></h1>
+    </div>
+    <script>
+        const altitudH1 = document.getElementById('altitudH1');
+        let animationInterval = null;
+        let animationIndex = 0;
+        const dots = [".", "..", "..."];
+
+        function startAnimation() {
+            stopAnimation(); // Detener cualquier animación previa para evitar múltiples intervalos
+            animationInterval = setInterval(() => {
+                altitudH1.innerText = dots[animationIndex];
+                animationIndex = (animationIndex + 1) % dots.length;
+            }, 500);
+        }
+
+        function stopAnimation() {
+            if (animationInterval) {
+                clearInterval(animationInterval);
+                animationInterval = null;
+            }
+        }
+
+        function updateAltitude() {
+            navigator.geolocation.getCurrentPosition((position) => {
+                if (position.coords.altitude !== null) {
+                    stopAnimation();
+                    altitudH1.innerText = `${position.coords.altitude.toFixed(2)}m`;
+                } else {
+                    startAnimation();
+                }
+            }, () => {
+                startAnimation(); // Si hay error, mostrar la animación
+            });
+        }
+
+        setInterval(updateAltitude, 1000);
+        updateAltitude(); // Llamar inmediatamente en el inicio
+    </script>
+</body>
+</html>
