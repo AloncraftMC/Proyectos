@@ -1,4 +1,3 @@
-
 # Normativa General PCP 25/12/2024
 
 > Redactado por el COP (Comité Organizativo Purchil)
