@@ -390,7 +390,7 @@ $$S(t) \in \mathbb{N}$$
 
 y $t$ es el tiempo que transcurre desde el fin de dicha fase de abandono hasta que el conductor manifiesta su no conducción, valor que, según el [Artículo 2.2.7](#227-transporte-definitivo) no durará más de 4 días (96 horas).
 
-El tiempo ($t$) es medido en horas, mientras que la sanción ($S(t)$) es medida en PCP.
+El tiempo ($t$) es medido en horas, mientras que la sanción ( $S(t)$ ) es medida en PCP.
 
 
 > Tabla de valores con información representativa de la función:
