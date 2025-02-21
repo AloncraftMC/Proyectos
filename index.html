@@ -1,62 +1,474 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contador Épico</title>
-    <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #282c34;
-            color: #61dafb;
-            font-family: 'Arial', sans-serif;
-            text-align: center;
-        }
-        h1 {
-            font-size: 3rem;
-        }
-        #countdown {
-            font-size: 4rem;
-            font-weight: bold;
-        }
-        .container {
-            background: rgba(0, 0, 0, 0.7);
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contador Épico</title>
+  <style>
+    /* Animaciones originales */
+    @keyframes glow {
+      0% { text-shadow: 0 0 5px #61dafb, 0 0 10px #61dafb, 0 0 20px #61dafb; }
+      50% { text-shadow: 0 0 20px #ff0080, 0 0 30px #ff0080, 0 0 40px #ff0080; }
+      100% { text-shadow: 0 0 5px #61dafb, 0 0 10px #61dafb, 0 0 20px #61dafb; }
+    }
+    @keyframes fadeInOut {
+      0%, 100% { opacity: 0; }
+      50% { opacity: 1; }
+    }
+    
+    /* 1. Falling Stars Animation */
+    @keyframes fallingStar {
+      0% { transform: translateY(0) scale(0.5); opacity: 0; }
+      10% { opacity: 1; }
+      100% { transform: translateY(110vh) scale(1); opacity: 0; }
+    }
+    .star {
+      position: absolute;
+      background: #fff;
+      width: 3px;
+      height: 3px;
+      border-radius: 50%;
+      animation: fallingStar linear;
+    }
+    
+    /* 2. Confetti Burst Animation */
+    @keyframes confettiFall {
+      0% { transform: translate3d(0, -100px, 0) rotate(0deg); opacity: 1; }
+      100% { transform: translate3d(100px, 100vh, 0) rotate(360deg); opacity: 0; }
+    }
+    .confetti {
+      position: absolute;
+      width: 8px;
+      height: 8px;
+      opacity: 0.8;
+      animation: confettiFall 3s ease-out forwards;
+    }
+    
+    /* 3. Fireworks Animation */
+    @keyframes fireworkBurst {
+      0% { transform: scale(0); opacity: 1; }
+      100% { transform: scale(5); opacity: 0; }
+    }
+    .firework {
+      position: absolute;
+      width: 10px;
+      height: 10px;
+      background: radial-gradient(circle, yellow, transparent);
+      border-radius: 50%;
+      animation: fireworkBurst 1s ease-out forwards;
+    }
+    
+    /* 4. Orbiting Particles Animation */
+    @keyframes orbit {
+      from { transform: rotate(0deg) translateX(50px) rotate(0deg); }
+      to { transform: rotate(360deg) translateX(50px) rotate(-360deg); }
+    }
+    .orbiting-particle {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 6px;
+      height: 6px;
+      background: #ffcc00;
+      border-radius: 50%;
+      animation: orbit linear infinite;
+    }
+    
+    /* 5. Ripple Effect Animation */
+    @keyframes ripple {
+      from { transform: scale(0); opacity: 0.7; }
+      to { transform: scale(4); opacity: 0; }
+    }
+    .ripple {
+      position: absolute;
+      border: 3px solid #61dafb;
+      border-radius: 50%;
+      animation: ripple 2s ease-out forwards;
+    }
+    
+    /* 6. Lightning Flash Animation */
+    @keyframes lightning {
+      0% { opacity: 0; }
+      50% { opacity: 0.8; }
+      100% { opacity: 0; }
+    }
+    .lightning {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: white;
+      pointer-events: none;
+      animation: lightning 0.3s ease-in-out forwards;
+    }
+    
+    /* 7. Glitch Effect Animation */
+    @keyframes glitch {
+      0% { transform: translate(0,0); opacity: 1; }
+      20% { transform: translate(-2px, 2px); opacity: 0.8; }
+      40% { transform: translate(2px, -2px); opacity: 1; }
+      60% { transform: translate(-2px, 2px); opacity: 0.8; }
+      80% { transform: translate(2px, -2px); opacity: 1; }
+      100% { transform: translate(0,0); opacity: 1; }
+    }
+    .glitch {
+      animation: glitch 1s infinite;
+    }
+    
+    /* 8. 3D Flip Effect Animation */
+    @keyframes flip3d {
+      from { transform: perspective(400px) rotateY(0deg); }
+      to { transform: perspective(400px) rotateY(360deg); }
+    }
+    .flip3d {
+      animation: flip3d 2s ease-in-out forwards;
+    }
+    
+    /* 9. Color Cycle Background Animation */
+    @keyframes colorCycle {
+      0% { background: linear-gradient(45deg, #000, #1a1a2e); }
+      25% { background: linear-gradient(45deg, #1a2a6c, #b21f1f); }
+      50% { background: linear-gradient(45deg, #0f2027, #203a43); }
+      75% { background: linear-gradient(45deg, #3a1c71, #d76d77); }
+      100% { background: linear-gradient(45deg, #000, #1a1a2e); }
+    }
+    body {
+      animation: colorCycle 30s linear infinite;
+    }
+    
+    /* 10. Spinning Border Animation (integrada al contenedor) */
+    .container {
+      position: relative;
+      background: rgba(0, 0, 0, 0.7);
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+      animation: fadeInOut 5s infinite;
+      overflow: hidden;
+    }
+    .container::before {
+      content: "";
+      position: absolute;
+      top: -5px;
+      left: -5px;
+      right: -5px;
+      bottom: -5px;
+      border: 2px solid rgba(255, 255, 255, 0.5);
+      border-radius: 10px;
+      animation: spinBorder 4s linear infinite;
+    }
+    @keyframes spinBorder {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+    
+    /* Estilos originales restantes */
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background: linear-gradient(45deg, #000, #1a1a2e);
+      color: #61dafb;
+      font-family: 'Arial', sans-serif;
+      text-align: center;
+      overflow: hidden;
+    }
+    h1 {
+      font-size: 3rem;
+      animation: glow 3s infinite alternate;
+    }
+    #countdown {
+      font-size: 4rem;
+      font-weight: bold;
+    }
+
+    /* NUEVOS ESTILOS PARA OBJETOS CON FÍSICA */
+    .bola, .flecha {
+      position: absolute;
+      pointer-events: none;
+      /* Transiciones suaves para el movimiento */
+      transition: transform 0.05s linear;
+    }
+  </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Fin del curso</h1>
-        <div id="countdown">Cargando...</div>
-    </div>
+  <div class="container">
+    <h1>Fin del curso</h1>
+    <div id="countdown">Cargando...</div>
+  </div>
 
-    <script>
-        function updateCountdown() {
-            const targetDate = new Date("2025-03-07T00:00:00").getTime();
-            const now = new Date().getTime();
-            const distance = targetDate - now;
+  <script>
+    // Solicitar pantalla completa automáticamente
+    function goFullScreen() {
+      const docEl = document.documentElement;
+      if (docEl.requestFullscreen) {
+        docEl.requestFullscreen();
+      } else if (docEl.mozRequestFullScreen) { /* Firefox */
+        docEl.mozRequestFullScreen();
+      } else if (docEl.webkitRequestFullscreen) { /* Chrome, Safari y Opera */
+        docEl.webkitRequestFullscreen();
+      } else if (docEl.msRequestFullscreen) { /* IE/Edge */
+        docEl.msRequestFullscreen();
+      }
+    }
+    // Algunos navegadores requieren interacción del usuario para pantalla completa.
+    document.addEventListener('DOMContentLoaded', () => {
+      setTimeout(goFullScreen, 500);
+    });
 
-            const days = Math.floor(distance / (1000 * 60 * 60 * 24));
-            const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-            const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
-            const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    let lastDay = null, lastHour = null, lastMinute = null;
 
-            document.getElementById("countdown").innerHTML = `${days}d ${hours}h ${minutes}m ${seconds}s`;
+    function updateCountdown() {
+      const targetDate = new Date("2025-03-10T00:00:00").getTime();
+      const now = new Date().getTime();
+      const distance = targetDate - now;
 
-            if (distance < 0) {
-                clearInterval(countdownInterval);
-                document.getElementById("countdown").innerHTML = "¡Es hora!";
-            }
+      const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+      const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+      const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+      document.getElementById("countdown").innerHTML = `${days}d ${hours}h ${minutes}m ${seconds}s`;
+
+      if (distance < 0) {
+        clearInterval(countdownInterval);
+        document.getElementById("countdown").innerHTML = "¡Es hora!";
+        triggerFinale();
+      } else {
+        if (lastDay === null) {
+          lastDay = days;
+          lastHour = hours;
+          lastMinute = minutes;
+        }
+        if (days < lastDay) {
+          lastDay = days;
+          triggerFireworks();
+        }
+        if (hours < lastHour) {
+          lastHour = hours;
+          triggerConfetti();
+        }
+        if (minutes < lastMinute) {
+          lastMinute = minutes;
+          triggerFlip();
+          triggerRipple();
+        }
+        if (seconds % 10 === 0) {
+          triggerGlitch();
+        }
+      }
+    }
+
+    function createExplosion(x, y) {
+      const explosion = document.createElement("div");
+      explosion.classList.add("explosion");
+      explosion.style.left = `${x}px`;
+      explosion.style.top = `${y}px`;
+      document.body.appendChild(explosion);
+      setTimeout(() => explosion.remove(), 1000);
+    }
+
+    function triggerFinale() {
+      setInterval(() => {
+        const x = Math.random() * window.innerWidth;
+        const y = Math.random() * window.innerHeight;
+        createExplosion(x, y);
+      }, 200);
+    }
+
+    // Animaciones épicas ya existentes
+
+    // 1. Estrellas fugaces
+    function createFallingStar() {
+      const star = document.createElement("div");
+      star.className = "star";
+      star.style.left = (Math.random() * window.innerWidth) + "px";
+      star.style.animationDuration = (3 + Math.random() * 2) + "s";
+      document.body.appendChild(star);
+      setTimeout(() => star.remove(), 5000);
+    }
+
+    // 2. Explosión de confeti
+    function triggerConfetti() {
+      const container = document.querySelector(".container");
+      for (let i = 0; i < 20; i++) {
+        const confetti = document.createElement("div");
+        confetti.className = "confetti";
+        const rect = container.getBoundingClientRect();
+        confetti.style.left = (Math.random() * rect.width) + "px";
+        confetti.style.top = "0px";
+        const colors = ["#ff595e", "#ffca3a", "#8ac926", "#1982c4", "#6a4c93"];
+        confetti.style.background = colors[Math.floor(Math.random() * colors.length)];
+        container.appendChild(confetti);
+        setTimeout(() => confetti.remove(), 3000);
+      }
+    }
+
+    // 3. Fuegos artificiales
+    function triggerFireworks() {
+      for (let i = 0; i < 10; i++) {
+        const firework = document.createElement("div");
+        firework.className = "firework";
+        firework.style.left = (Math.random() * window.innerWidth) + "px";
+        firework.style.top = (Math.random() * window.innerHeight) + "px";
+        document.body.appendChild(firework);
+        setTimeout(() => firework.remove(), 1000);
+      }
+    }
+
+    // 4. Partículas orbitantes
+    function initOrbitingParticles() {
+      const container = document.querySelector(".container");
+      for (let i = 0; i < 6; i++) {
+        const particle = document.createElement("div");
+        particle.className = "orbiting-particle";
+        particle.style.animationDuration = (4 + Math.random() * 4) + "s";
+        particle.style.transform = `rotate(${Math.random() * 360}deg) translateX(50px)`;
+        container.appendChild(particle);
+      }
+    }
+
+    // 5. Efecto ripple
+    function triggerRipple() {
+      const container = document.querySelector(".container");
+      const ripple = document.createElement("div");
+      ripple.className = "ripple";
+      ripple.style.width = container.offsetWidth + "px";
+      ripple.style.height = container.offsetWidth + "px";
+      ripple.style.left = "0";
+      ripple.style.top = "0";
+      container.appendChild(ripple);
+      setTimeout(() => ripple.remove(), 2000);
+    }
+
+    // 6. Rayo de luz (Lightning)
+    function triggerLightning() {
+      const lightning = document.createElement("div");
+      lightning.className = "lightning";
+      document.body.appendChild(lightning);
+      setTimeout(() => lightning.remove(), 300);
+    }
+
+    // 7. Efecto glitch
+    function triggerGlitch() {
+      const countdown = document.getElementById("countdown");
+      countdown.classList.add("glitch");
+      setTimeout(() => {
+        countdown.classList.remove("glitch");
+      }, 500);
+    }
+
+    // 8. Giro 3D del contenedor
+    function triggerFlip() {
+      const container = document.querySelector(".container");
+      container.classList.add("flip3d");
+      setTimeout(() => {
+        container.classList.remove("flip3d");
+      }, 2000);
+    }
+
+    // Iniciar partículas orbitantes al cargar
+    initOrbitingParticles();
+
+    // Animaciones continuas
+    setInterval(createFallingStar, 500);
+    setInterval(() => { if (Math.random() < 0.1) triggerLightning(); }, 1000);
+
+    const countdownInterval = setInterval(updateCountdown, 1000);
+    updateCountdown();
+
+    // ---------------------------------------------------------------
+    // NUEVOS EFECTOS CON FÍSICA: Bolas rebotando, cuerpos con gravedad y objetos voladores.
+    // ---------------------------------------------------------------
+
+    const physicsObjects = [];
+    const gravity = 0.2; // aceleración gravitacional
+    const bounceFactor = -0.7; // factor de rebote
+
+    // Función para crear objetos físicos (bola o flecha)
+    function spawnPhysicsObject() {
+      // Selecciona aleatoriamente el tipo: 'bola' o 'flecha'
+      const type = (Math.random() < 0.5) ? 'bola' : 'flecha';
+      let element = document.createElement("div");
+
+      if (type === 'bola') {
+        element.className = 'bola';
+        // Tamaño aleatorio entre 10 y 30 píxeles
+        let size = Math.random() * 20 + 10;
+        element.style.width = size + "px";
+        element.style.height = size + "px";
+        element.style.borderRadius = "50%";
+        // Colores degradados aleatorios
+        let color1 = '#' + Math.floor(Math.random()*16777215).toString(16);
+        let color2 = '#' + Math.floor(Math.random()*16777215).toString(16);
+        element.style.background = `radial-gradient(circle, ${color1}, ${color2})`;
+      } else if (type === 'flecha') {
+        element.className = 'flecha';
+        // Crear una flecha con bordes CSS
+        element.style.width = "0";
+        element.style.height = "0";
+        element.style.borderLeft = "10px solid transparent";
+        element.style.borderRight = "10px solid transparent";
+        let arrowColor = '#' + Math.floor(Math.random()*16777215).toString(16);
+        element.style.borderBottom = "20px solid " + arrowColor;
+      }
+
+      // Posición inicial aleatoria
+      let x = Math.random() * window.innerWidth;
+      let y = Math.random() * window.innerHeight;
+      // Velocidades iniciales aleatorias
+      let vx = (Math.random() - 0.5) * 10;
+      let vy = (Math.random() - 0.5) * 10;
+
+      physicsObjects.push({element, x, y, vx, vy, type});
+      document.body.appendChild(element);
+    }
+
+    // Función para actualizar la física de los objetos
+    function updatePhysics() {
+      physicsObjects.forEach(obj => {
+        // Aplicar gravedad
+        obj.vy += gravity;
+        // Actualizar posición
+        obj.x += obj.vx;
+        obj.y += obj.vy;
+
+        // Colisiones con los bordes de la ventana
+        if (obj.x <= 0) {
+          obj.x = 0;
+          obj.vx *= -1;
+        }
+        if (obj.x + obj.element.offsetWidth >= window.innerWidth) {
+          obj.x = window.innerWidth - obj.element.offsetWidth;
+          obj.vx *= -1;
+        }
+        if (obj.y <= 0) {
+          obj.y = 0;
+          obj.vy *= bounceFactor;
+        }
+        if (obj.y + obj.element.offsetHeight >= window.innerHeight) {
+          obj.y = window.innerHeight - obj.element.offsetHeight;
+          obj.vy *= bounceFactor;
         }
 
-        const countdownInterval = setInterval(updateCountdown, 1000);
-        updateCountdown();
-    </script>
+        // Actualizar posición del elemento
+        obj.element.style.transform = `translate(${obj.x}px, ${obj.y}px)`;
+
+        // Si es una flecha, rotarla según la dirección de movimiento
+        if (obj.type === 'flecha') {
+          let angle = Math.atan2(obj.vy, obj.vx) * 180 / Math.PI;
+          obj.element.style.transform += ` rotate(${angle}deg)`;
+        }
+      });
+      requestAnimationFrame(updatePhysics);
+    }
+
+    // Iniciar la creación de objetos físicos cada segundo
+    setInterval(spawnPhysicsObject, 1000);
+    updatePhysics();
+
+  </script>
 </body>
 </html>
