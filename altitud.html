@@ -1,77 +1,113 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Altitud en Tiempo Real</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Altitud en Tiempo Real</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap');
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      font-family: 'Rubik', sans-serif;
+      background-color: black;
+      color: white;
+    }
+    div {
+      text-align: center;
+      border: 10px solid white;
+      border-radius: 30px;
+      padding: 10vw;
+      width: 70vw;
+    }
+    h1 {
+      margin: 0;
+    }
+    h2 {
+      margin: 0;
+    }
+  </style>
 </head>
 <body>
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700&display=swap');
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            font-family: 'Rubik', sans-serif;
-            background-color: black;
-            color: white;
-        }
-        div {
-            text-align: center;
-            border: 10px solid white;
-            border-radius: 30px;
-            padding: 10vw;
-            width: 70vw;
-        }
-        h1 {
-            margin: 0;
-        }
-        h2 {
-            margin: 0;
-        }
-    </style>
-    <div>
-        <h2>Altitud</h2>
-        <h1 id="altitudH1"></h1>
-    </div>
-    <script>
-        const altitudH1 = document.getElementById('altitudH1');
-        let animationInterval = null;
-        let animationIndex = 0;
-        const dots = [".", "..", "..."];
+  <div>
+    <h2>Altitud</h2>
+    <h1 id="altitudH1"></h1>
+  </div>
+  <script>
+    const altitudH1 = document.getElementById('altitudH1');
+    let animationInterval = null;
+    let animationIndex = 0;
+    const dots = [".", "..", "..."];
 
-        function startAnimation() {
-            stopAnimation(); // Detener cualquier animación previa para evitar múltiples intervalos
-            animationInterval = setInterval(() => {
-                altitudH1.innerText = dots[animationIndex];
-                animationIndex = (animationIndex + 1) % dots.length;
-            }, 500);
-        }
+    // Variable para el siguiente umbral de 100m
+    let nextThreshold = 1;
 
-        function stopAnimation() {
-            if (animationInterval) {
-                clearInterval(animationInterval);
-                animationInterval = null;
-            }
-        }
+    // Inicia una animación mientras se obtiene la altitud o no se dispone de ella
+    function startAnimation() {
+      stopAnimation(); // Evita múltiples intervalos
+      animationInterval = setInterval(() => {
+        altitudH1.innerText = dots[animationIndex];
+        animationIndex = (animationIndex + 1) % dots.length;
+      }, 500);
+    }
 
-        function updateAltitude() {
-            navigator.geolocation.getCurrentPosition((position) => {
-                if (position.coords.altitude !== null && position.coords.altitude !== "") {
-                    stopAnimation();
-                    altitudH1.innerText = `${position.coords.altitude.toFixed(2)}m`;
-                } else {
-                    startAnimation();
-                }
-            }, () => {
-                startAnimation(); // Si hay error, mostrar la animación
-            });
-        }
+    function stopAnimation() {
+      if (animationInterval) {
+        clearInterval(animationInterval);
+        animationInterval = null;
+      }
+    }
 
-        setInterval(updateAltitude, 1000);
-        updateAltitude(); // Llamar inmediatamente en el inicio
-    </script>
+    // Función para reproducir la síntesis de voz
+    function speakAltitude(altitude) {
+      const utterance = new SpeechSynthesisUtterance(`Altitud ${altitude} metros`);
+      utterance.lang = "es-ES"; // Configura el idioma a español
+      window.speechSynthesis.speak(utterance);
+    }
+
+    // Actualiza la altitud y comprueba si se alcanza un nuevo umbral
+    function updateAltitude() {
+      navigator.geolocation.getCurrentPosition((position) => {
+        if (position.coords.altitude !== null && position.coords.altitude !== "") {
+          stopAnimation();
+          const currentAltitude = position.coords.altitude;
+          altitudH1.innerText = `${currentAltitude.toFixed(2)}m`;
+
+          // Si se ha alcanzado o superado el siguiente umbral de 100m, lo anuncia
+          while (currentAltitude >= nextThreshold) {
+            speakAltitude(nextThreshold);
+            nextThreshold += 1;
+          }
+        } else {
+          startAnimation();
+        }
+      }, () => {
+        startAnimation(); // Si hay error, mostrar la animación
+      });
+    }
+
+    // Truco para mantener el audio activo en segundo plano (puede requerir interacción del usuario)
+    const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+    const oscillator = audioContext.createOscillator();
+    const gainNode = audioContext.createGain();
+    gainNode.gain.value = 0; // Sin volumen
+    oscillator.connect(gainNode);
+    gainNode.connect(audioContext.destination);
+    oscillator.start();
+
+    // En algunos dispositivos es necesario reanudar el contexto de audio tras una interacción
+    document.addEventListener('click', () => {
+      if (audioContext.state !== 'running') {
+        audioContext.resume();
+      }
+    });
+
+    // Actualiza la altitud cada segundo
+    setInterval(updateAltitude, 1000);
+    updateAltitude(); // Llamada inicial
+  </script>
 </body>
 </html>
