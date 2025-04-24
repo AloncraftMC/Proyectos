@@ -317,7 +317,7 @@ Desde Diezma a Darro por la **`🟨GR-3106🟨`**, e ir por la **`🟩A-308🟩`
 
 ---
 
-## Bajada a La Playa por el Oeste
+## Ruta Bajada a La Playa por el Oeste
 
 > - Duración: 3h
 > - Desnivel: 520m+
