@@ -1,4 +1,4 @@
-# Normativa General PCP 25/12/2024 
+# Normativa General PCP 13/04/2025 
 
 > Redactado por el COP (Comité Organizativo Purchil)
 
@@ -14,7 +14,8 @@
     - [1.4. Plazas Reservables](#14-plazas-reservables)
         - [1.4.1. Plaza Física](#141-plaza-física)
         - [1.4.2. Plaza Lógica](#142-plaza-lógica)
-        - [1.4.3. Principio de Maximización del Espacio](#143-principio-de-maximización-del-espacio)
+    - [1.5. Plazas No Reservables](#15-plazas-no-reservables)
+    - [1.6. Principio de Maximización del Espacio](#16-principio-de-maximización-del-espacio)
 - [2. Proceso](#2-proceso)
     - [2.1. Concepción](#21-concepción)
         - [2.1.1. Definición](#211-definición)
@@ -67,9 +68,11 @@ Anexo II. [Función de Sanción por Abandono del Conductor](#anexo-ii-función-d
 
 ### 1.1. Objeto
 
-La Normativa General para Planes Clasificados como Purchil ([PCP](#13-concepto)) es el reglamento constituido para la gestión de la logística asociada a los mismos. Es confeccionada por el [COP](#12-comité-organizativo-purchil) con el fin de evitar conflictos futuros.
+La Normativa General para Planes Clasificados como Purchil ([PCP](#13-concepto)) es el reglamento constituido para la gestión de la logística asociada a los mismos.
 
-Esta normativa carece de carácter retroactivo.
+Es confeccionada por el [COP](#12-comité-organizativo-purchil) con el fin de evitar conflictos futuros y carece de carácter retroactivo.
+
+Se puede ver modificada en cualquier momento, siempre que se notifique a los participantes con un mínimo de 3 días de antelación.
 
 ### 1.2. Comité Organizativo Purchil
 
@@ -112,9 +115,13 @@ Es la unidad tangible que se corresponde exactamente con una plaza de descanso. 
 
 Es la subdivisión dentro de una [plaza física](#141-plaza-física) correspondiente a una sola persona. Ej. Uno de los dos espacios de una cama doble.
 
-#### 1.4.3. Principio de Maximización del Espacio
+### 1.5. Plazas No Reservables
 
-Es el principio que busca que la menor gente posible se quede sin [plaza lógica](#142-plaza-lógica). Como norma general, se aplica en las *Secciones [3.2](#32-plazas-de-descanso)* y *[3.3](#33-conducción-de-vehículos-personales)*.
+Es una plaza de descanso perteneciente a la propiedad personal de un participante. En caso de cesión, se acatan en primera instancia las indicaciones descritas sobre su uso por el propietario.
+
+### 1.6. Principio de Maximización del Espacio
+
+Es el principio que busca que la menor gente posible se quede sin [plaza lógica](#142-plaza-lógica) o asiento en vehículo personal. Como norma general, se aplica en las *Secciones [3.2](#32-plazas-de-descanso)* y *[3.3](#33-conducción-de-vehículos-personales)*.
 
 ---
 
@@ -143,8 +150,6 @@ Conjunto de rangos de valores cuantitativos monetarios, que cumplen un balance c
 #### 2.1.5. Destino Inicial
 
 Lugar o conjunto de lugares de un [PCP](#13-concepto) determinado en función de la fecha y presupuesto inicialmente.
-
-<div style="page-break-after: always;"></div>
 
 #### 2.1.6. Participantes Iniciales
 
@@ -220,8 +225,6 @@ Si la longitud del viaje está prácticamente determinada, los conductores de lo
 
 ---
 
-<div style="page-break-after: always;"></div>
-
 ## 3. Derechos
 
 ### 3.1. Asientos en Vehículo Personal
@@ -244,7 +247,7 @@ Si los participantes que soliciten el mismo asiento de un vehículo personal no 
 
 ### 3.2. Plazas de Descanso
 
-Cuando un [PCP](#13-concepto) requiere el uso de plazas de descanso, el reparto de estas se realiza siguiendo el procedimiento a continuación descrito:
+Cuando un [PCP](#13-concepto) requiere el uso de plazas de descanso, el reparto de las [plazas reservables](#14-plazas-reservables) se realiza siguiendo el procedimiento a continuación descrito:
 
 1. Se determina un día y hora concreta para celebrar en el grupo una elección de participaciones individuales en una [plaza física](#141-plaza-física).
 Si los participantes que eligen una plaza física igualan o superan al número de [plazas lógicas](#142-plaza-lógica) que ésta tiene, la elección es válida.
@@ -253,6 +256,8 @@ Si no, el participante correspondiente tiene menor prioridad que los participant
 2. Como norma general, 24 horas después, se ejecuta un sorteo equitativo, controlado por un miembro cualquiera del [COP](#12-comité-organizativo-purchil), por cada plaza física en disputa entre los participantes que la hayan solicitado.
 
 3. Cada ganador del sorteo obtiene la plaza física disputada. El conjunto de los perdedores recurre a una siguiente iteración de todos los pasos descritos anteriormente con las condiciones obtenidas recién concluido el sorteo hasta que no queden plazas físicas disponibles.
+
+
 
 <div style="page-break-after: always;"></div>
 
@@ -380,22 +385,20 @@ Esta función define la sanción correspondiente al abandono del conductor descr
 
 Una vez ha acabado la fase de abandono de la conducción de vehículos personales, se aplica la siguiente función:
 
-$$S(t) = \left\lfloor \frac{5250}{\left(96 - \left\lfloor t \right\rfloor \right)^2} \right\rfloor + 1$$
+<div style="text-align: center;"><img src="README1.png"></div>
 
 donde:
 
-$$t \in \mathbb{R}, 0 \leq t < 96$$
+<div style="text-align: center;"><img src="README2.png"></div>
 
-$$S(t) \in \mathbb{N}$$
+y t es el tiempo que transcurre desde el fin de dicha fase de abandono hasta que el conductor manifiesta su no conducción, valor que, según el [Artículo 2.2.7](#227-transporte-definitivo) no durará más de 4 días (96 horas).
 
-y $t$ es el tiempo que transcurre desde el fin de dicha fase de abandono hasta que el conductor manifiesta su no conducción, valor que, según el [Artículo 2.2.7](#227-transporte-definitivo) no durará más de 4 días (96 horas).
-
-El tiempo ($t$) es medido en horas, mientras que la sanción ( $S(t)$ ) es medida en PCP.
+El tiempo (t) es medido en horas, mientras que la sanción (S(t)) es medida en PCP.
 
 
 > Tabla de valores con información representativa de la función:
 
-| $t$ <br> (horas) | $S(t)$ <br> (PCP) |
+| t <br> (horas) | S(t) <br> (PCP) |
 | - | - |
 | 0 | 1 |
 | 12 | 1 |
@@ -439,17 +442,28 @@ El tiempo ($t$) es medido en horas, mientras que la sanción ( $S(t)$ ) es medid
         .firma img {
             transform: scale(2) rotate(-15deg);
         }
+        .firma-2 {
+            border: 3px solid black;
+            width: 200px;
+            height: 100px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
     </style>
     <div class="container">
         <div class="firma-container">
             <p class="firma-texto">COP</p>
             <div class="firma">
-                <img src="https://raw.githubusercontent.com/AloncraftMC/Proyectos/refs/heads/main/COP.png" alt="Firma COP">
+                <img src="https://raw.githubusercontent.com/AloncraftMC/Proyectos/refs/heads/main/COP/COP.png" alt="Firma COP">
             </div>
         </div>
         <div class="firma-container">
             <p class="firma-texto">Representante del pueblo</p>
-            <div class="firma"></div>
+            <div class="firma-2">
+                <img src="README-firma.png" alt="Firma COP">
+            </div>
         </div>
     </div>
 </body>
