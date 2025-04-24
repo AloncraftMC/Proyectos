@@ -1,9 +1,9 @@
 # PLAN GR-X
 
-> Leyenda
-> 🔧 = Requiere desmontar la bici
-> 🚌 = Requiere transporte público
-> 🚗 = Requiere coche
+> **Leyenda**
+> - 🔧 *Requiere desmontar la bici*
+> - 🚌 *Requiere transporte público*
+> - 🚗 *Requiere coche*
 
 ## Índice
 
@@ -40,8 +40,8 @@
 
 ## Ruta `🟩A-308🟩`
 
-> Duración: 4h 15min
-> Desnivel: 330m+
+> - Duración: 4h 15min
+> - Desnivel: 330m+
 > - Transporte: Movelia a Diezma (15€)
 > - Logística: 🔧🚌
 
@@ -59,11 +59,11 @@ Desde Diezma a Darro por la **`🟨GR-3106🟨`**, e ir al puente de la **`🟧A
 
 ## Ruta Baza
 
-Duración: 3h
-Desnivel: 480m+
-Transporte: Coche a Aparcamiento Salida 46 de A-92N
-Logística: 🔧🚗
-Ruta: https://maps.app.goo.gl/1GX63Xbovsmsjqvi9
+> - Duración: 3h
+> - Desnivel: 480m+
+> - Transporte: Coche a Aparcamiento Salida 46 de A-92N
+> - Logística: 🔧🚗
+> - Ruta: https://maps.app.goo.gl/1GX63Xbovsmsjqvi9
 
 ### Carreteras
 
@@ -81,10 +81,10 @@ Desde el aparcamiento salimos por la vía de servicio hasta el oeste. Cruzamos p
 
 ## Ruta `🟩A-401🟩`
 
-Duración: 2h 30min
-Desnivel: 585m+
-Transporte: Coche a Guadahortuna
-Logística: 🔧🚗
+> - Duración: 2h 30min
+> - Desnivel: 585m+
+> - Transporte: Coche a Guadahortuna
+> - Logística: 🔧🚗
 
 ### Carreteras
 
@@ -98,14 +98,14 @@ Vamos desde Guadahortuna hasta el cruce de la **`🟩A-308🟩`** con Huélago y
 
 ## Ruta `🟩A-403🟩`
 
-Duración: 2h 50min
-Desnivel: 610m+
-Transporte: Coche a Dehesas Viejas
-Logística: 🔧🚗
+> - Duración: 2h 50min
+> - Desnivel: 610m+
+> - Transporte: Coche a Dehesas Viejas
+> - Logística: 🔧🚗
 
 ### Carreteras
 
-* **`🟩A-403R3`🟩** (0,72 km)
+* **`🟩A-403R3🟩`** (0,72 km)
 * **`🟩A-403🟩`** (23 km): Hacer foto a límite provincial
 
 #### Itinerario
@@ -116,10 +116,10 @@ Desde Dehesas Viejas vamos al límite y volvemos.
 
 ## Ruta `🟩A-315🟩`
 
-Duración: 3h 30min
-Desnivel: 610m+
-Transporte: Coche a Cañada de los Morteros (Cuevas del Campo)
-Logística: 🔧🚗
+> - Duración: 3h 30min
+> - Desnivel: 610m+
+> - Transporte: Coche a Cañada de los Morteros (Cuevas del Campo)
+> - Logística: 🔧🚗
 
 ### Carreteras
 
@@ -133,10 +133,10 @@ Desde Cañada de los Morteros, salimos a la derecha para hacerle la foto al lím
 
 ## Ruta `🟩A-323🟩`
 
-Duración: 2h 15min
-Desnivel: 420m+
-Transporte: Coche a Guadahortuna
-Logística: 🔧🚗
+> - Duración: 2h 15min
+> - Desnivel: 420m+
+> - Transporte: Coche a Guadahortuna
+> - Logística: 🔧🚗
 
 ### Carreteras
 
@@ -150,11 +150,11 @@ Desde Guadahortuna nos hacemos la **`🟩A-323🟩`**, y volvemos por la **`🟩
 
 ## Ruta Loja
 
-Duración: 2h 16min
-Desnivel: 480m+
-Transporte: Coche a Loja
-Logística: 🔧🚗
-Ruta: https://maps.app.goo.gl/q8LRn7mY9mFsSSLg6
+> - Duración: 2h 16min
+> - Desnivel: 480m+
+> - Transporte: Coche a Loja
+> - Logística: 🔧🚗
+> - Ruta: https://maps.app.goo.gl/q8LRn7mY9mFsSSLg6
 
 ### Carreteras
 
@@ -170,10 +170,10 @@ Empezamos desde el Ayuntamiento de Loja y vamos hasta la Salida 188 de la **`�
 
 ## Ruta `🟩A-338🟩`
 
-Duración: 3h  
-Desnivel: 651m+  
-Transporte: Alsa a Alhama de Granada (12€)  
-Logística: 🔧🚌  
+> - Duración: 3h  
+> - Desnivel: 651m+  
+> - Transporte: Alsa a Alhama de Granada (12€)  
+> - Logística: 🔧🚌  
 
 ### Carreteras
 
@@ -183,10 +183,10 @@ Logística: 🔧🚌
 
 ## Ruta Sierra Nevada
 
-Duración: 1h 40min
-Desnivel: 30m+
-Transporte: SN en Estación de Autobuses hasta parada de Hoya de la Mora (?€)
-Logística: 🔧🚌
+> - Duración: 1h 40min
+> - Desnivel: 30m+
+> - Transporte: SN en Estación de Autobuses hasta parada de Hoya de la Mora (?€)
+> - Logística: 🔧🚌
 
 ### Carreteras
 
@@ -202,10 +202,10 @@ Subimos al Veleta y bajamos a Granada.
 
 ## Ruta Deifontes & Iznalloz
 
-Duración: 3h 45min
-Desnivel: 450m+
-Transporte: Coger 0215 En Avda. Andaluces hasta parada de Deifontes 1
-Logística: 🚌
+> - Duración: 3h 45min
+> - Desnivel: 450m+
+> - Transporte: Coger 0215 En Avda. Andaluces hasta parada de Deifontes 1
+> - Logística: 🚌
 
 ### Carreteras
 
@@ -222,10 +222,10 @@ Llegamos a Deifontes, y subimos hasta Iznalloz por la **`🟨GR-3423🟨`**. Gir
 
 ## Ruta Huélago, Moreda & Píñar
 
-Duración: 4h 15min
-Desnivel: 360m+
-Transporte: Movelia a Diezma (15€)
-Logística: 🔧🚌
+> - Duración: 4h 15min
+> - Desnivel: 360m+
+> - Transporte: Movelia a Diezma (15€)
+> - Logística: 🔧🚌
 
 ### Carreteras
 
@@ -243,10 +243,10 @@ Partimos de Diezma a Darro, y luego vamos a Huélago por la **`🟨GR-4103🟨`*
 
 ## Ruta A-92n't
 
-Duración: 3h 15min
-Desnivel: 610m+
-Transporte: Movelia a Diezma (15€)
-Logística: 🔧🚌
+> - Duración: 3h 15min
+> - Desnivel: 610m+
+> - Transporte: Movelia a Diezma (15€)
+> - Logística: 🔧🚌
 
 ### Carreteras
 
@@ -262,11 +262,11 @@ Partimos de Diezma a Darro, y de ahí hasta la tienda de porcelana de la **`🟧
 
 ## Ruta Guadix
 
-Duración: 2h 40min
-Desnivel: 520m+
-Transporte: Coger Coche a Guadix
-Logística: 🔧🚗
-Ruta: https://maps.app.goo.gl/1XJhcDJwXfHorPY5A
+> - Duración: 2h 40min
+> - Desnivel: 520m+
+> - Transporte: Coger Coche a Guadix
+> - Logística: 🔧🚗
+> - Ruta: https://maps.app.goo.gl/1XJhcDJwXfHorPY5A
 
 ### Carreteras
 
@@ -286,10 +286,10 @@ Dejamos el coche en Guadix y salimos hacia el sur haciendo la **`🟨A-4101R🟨
 
 ## Ruta Alter. Sierra Nevada
 
-Duración: 2h
-Desnivel: 150m+
-Transporte: SN en Estación de Autobuses hasta parada de Hoya de la Mora (?€)
-Logística: 🔧🚌
+> - Duración: 2h
+> - Desnivel: 150m+
+> - Transporte: SN en Estación de Autobuses hasta parada de Hoya de la Mora (?€)
+> - Logística: 🔧🚌
 
 ### Carreteras
 
@@ -300,10 +300,10 @@ Logística: 🔧🚌
 
 ## Ruta Píñar
 
-Duración: 4h
-Desnivel: 280m+
-Transporte: Movelia a Diezma (15€)
-Logística: 🔧🚌
+> - Duración: 4h
+> - Desnivel: 280m+
+> - Transporte: Movelia a Diezma (15€)
+> - Logística: 🔧🚌
 
 ### Carreteras
 
@@ -319,10 +319,10 @@ Desde Diezma a Darro por la **`🟨GR-3106🟨`**, e ir por la **`🟩A-308🟩`
 
 ## Bajada a La Playa por el Oeste
 
-Duración: 3h
-Desnivel: 520m+
-Transporte: Coger 0360 / 0361 En Congresos hasta cruce N-323 con GR-3205 (Nigüelas)
-Logística: 🚌
+> - Duración: 3h
+> - Desnivel: 520m+
+> - Transporte: Coger 0360 / 0361 En Congresos hasta cruce N-323 con GR-3205 (Nigüelas)
+> - Logística: 🚌
 
 ### Carreteras
 
@@ -338,10 +338,10 @@ Desde el cruce de Nigüelas nos deslizamos hasta Lecrín por la **`🟥N-323🟥
 
 ## Ruta Bermejales Este
 
-Duración: 3h
-Desnivel: 525m+
-Transporte: Coger 0256 a Agrón
-Logística: 🚌
+> - Duración: 3h
+> - Desnivel: 525m+
+> - Transporte: Coger 0256 a Agrón
+> - Logística: 🚌
 
 ### Carreteras
 
@@ -355,10 +355,10 @@ Bajar a Fornes por la **`🟩A-338🟩`** y la **`🟨GR-3307🟨`**. Volver por
 
 ## Ruta Subida Íllora
 
-Duración: 2h 30min
-Desnivel: 500m+
-Transporte: Coger 0325 En Paseillos hasta Íllora
-Logística: 🚌
+> - Duración: 2h 30min
+> - Desnivel: 500m+
+> - Transporte: Coger 0325 En Paseillos hasta Íllora
+> - Logística: 🚌
 
 ### Carreteras
 
@@ -372,10 +372,10 @@ Desde Íllora nos hacemos toda la **`🟨GR-3407🟨`** y en la **`🟨GR-3410�
 
 ## Ruta Moclín
 
-Duración: 1h 30min
-Desnivel: 340m+
-Transporte: Coger 0323 En Paseillos hasta Limones
-Logística: 🚌
+ > - Duración: 1h 30min
+> - Desnivel: 340m+
+> - Transporte: Coger 0323 En Paseillos hasta Limones
+> - Logística: 🚌
 
 ### Carreteras
 
@@ -390,10 +390,10 @@ Desde Limones hacemos la **`🟨GR-3415🟨`** y vamos a la **`🟨GR-3408🟨`*
 
 ## Ruta Caparacenan't
 
-Duración: <1h
-Desnivel: 85m+
-Transporte: Coger 0323 En Paseillos hasta Moclín
-Logística: 🚌
+> - Duración: <1h
+> - Desnivel: 85m+
+> - Transporte: Coger 0323 En Paseillos hasta Moclín
+> - Logística: 🚌
 
 ### Carreteras
 
@@ -407,10 +407,10 @@ Desde Moclín bajamos a Puerto Lope por la **`🟨GR-3414🟨`**. Bajamos por la
 
 ## Ruta Supracaparacena
 
-Duración: 2h
-Desnivel: 280m+
-Transporte: Coger 0323 En Paseillos hasta Tiena / Olivares
-Logística: 🚌
+> - Duración: 2h
+> - Desnivel: 280m+
+> - Transporte: Coger 0323 En Paseillos hasta Tiena / Olivares
+> - Logística: 🚌
 
 ### Carreteras
 
@@ -424,10 +424,10 @@ Desde Tiena u Olivares, hacemos la **`🟨GR-3413🟨`** entera y nos dejamos ca
 
 ## Ruta Tózar
 
-Duración: 1h 10min - 2h 15min
-Desnivel: 140m - 275m+
-Transporte: Coger 0323 En Paseillos hasta Tózar
-Logística: 🚌
+> - Duración: 1h 10min - 2h 15min
+> - Desnivel: 140m - 275m+
+> - Transporte: Coger 0323 En Paseillos hasta Tózar
+> - Logística: 🚌
 
 ### Carreteras
 
@@ -441,10 +441,10 @@ Desde Tózar hacemos la **`🟨GR-3416🟨`** hasta la **`🟥N-432🟥`**. Nos 
 
 ## Ruta Bermejales Este Variante
 
-Duración: 3h
-Desnivel: 520m+
-Transporte: Coger 0256 a Agrón
-Logística: 🚌
+> - Duración: 3h
+> - Desnivel: 520m+
+> - Transporte: Coger 0256 a Agrón
+> - Logística: 🚌
 
 ### Carreteras
 
@@ -454,10 +454,10 @@ Logística: 🚌
 
 ## Ruta Bermejales Oeste
 
-Duración: 2h 45min
-Desnivel: 460m+
-Transporte: Coger Alsa a Arenas del Rey (11€)
-Logística: 🔧🚌
+> - Duración: 2h 45min
+> - Desnivel: 460m+
+> - Transporte: Coger Alsa a Arenas del Rey (11€)
+> - Logística: 🔧🚌
 
 ### Carreteras
 
@@ -467,11 +467,11 @@ Logística: 🔧🚌
 
 ## Ruta `🟥N-323🟥`
 
-Duración: 6h 30min
-Desnivel: 800m+
-Transporte: Medio a Noalejo
-Logística: 🔧🚗/🚌
-Ruta: https://maps.app.goo.gl/EKiHwqFsZWQVgPt78
+> - Duración: 6h 30min
+> - Desnivel: 800m+
+> - Transporte: Medio a Noalejo
+> - Logística: 🔧🚗/🚌
+> - Ruta: https://maps.app.goo.gl/EKiHwqFsZWQVgPt78
 
 ### Carreteras
 
