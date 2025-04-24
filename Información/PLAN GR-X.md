@@ -40,10 +40,10 @@
 
 ## Ruta `🟩A-308🟩`
 
-Duración: 4h 15min
-Desnivel: 330m+
-Transporte: Movelia a Diezma (15€)
-Logística: 🔧🚌
+> Duración: 4h 15min
+> Desnivel: 330m+
+> - Transporte: Movelia a Diezma (15€)
+> - Logística: 🔧🚌
 
 ### Carreteras
 
