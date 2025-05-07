@@ -372,36 +372,18 @@ Desde Íllora nos hacemos toda la **`🟨GR-3407🟨`** y en la **`🟨GR-3410�
 
 ## Ruta Moclín
 
- > - Duración: 1h 30min
+> - Duración: 1h 30min
 > - Desnivel: 340m+
-> - Transporte: Coger 0323 En Paseillos hasta Limones
-> - Logística: 🚌
+> - Transporte: Coger 0323 En Paseillos hasta Tózar o Limones
+> - Logística: 🚌 (Lunes a Viernes con Conductor de Vista Gorda)
 
 ### Carreteras
 
-* **`🟨GR-3415🟨`** (1 km)
 * **`🟨GR-3408🟨`** (21,3 km): En realidad el límite es el Km 21
 
 #### Itinerario
 
-Desde Limones hacemos la **`🟨GR-3415🟨`** y vamos a la **`🟨GR-3408🟨`**. La hacemos entera y volvemos en bus desde Pinos Puente.
-
----
-
-## Ruta Caparacenan't
-
-> - Duración: <1h
-> - Desnivel: 85m+
-> - Transporte: Coger 0323 En Paseillos hasta Moclín
-> - Logística: 🚌
-
-### Carreteras
-
-* **`🟨GR-3414🟨`** (5 km): En realidad el límite es el Km 3
-
-#### Itinerario
-
-Desde Moclín bajamos a Puerto Lope por la **`🟨GR-3414🟨`**. Bajamos por la **`🟥N-432🟥`** hasta Pinos Puente y volvemos a casa como queramos.
+Desde Tózar o Limones hacemos la **`🟨GR-3408🟨`** y volvemos en bus desde Pinos Puente.
 
 ---
 
@@ -419,23 +401,6 @@ Desde Moclín bajamos a Puerto Lope por la **`🟨GR-3414🟨`**. Bajamos por la
 #### Itinerario
 
 Desde Tiena u Olivares, hacemos la **`🟨GR-3413🟨`** entera y nos dejamos caer por Albolote hasta casa.
-
----
-
-## Ruta Tózar
-
-> - Duración: 1h 10min - 2h 15min
-> - Desnivel: 140m - 275m+
-> - Transporte: Coger 0323 En Paseillos hasta Tózar
-> - Logística: 🚌
-
-### Carreteras
-
-* **`🟨GR-3416🟨`** (5,5 km): En realidad el límite es el Km 5
-
-#### Itinerario
-
-Desde Tózar hacemos la **`🟨GR-3416🟨`** hasta la **`🟥N-432🟥`**. Nos deslizamos hasta Pinos Puente, y ahí valoramos si volvemos en bus o bici.
 
 ---
 
