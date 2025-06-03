@@ -260,6 +260,40 @@ Partimos de Diezma a Darro, y de ahí hasta la tienda de porcelana de la **`🟧
 
 ---
 
+## Ruta Alter. Sierra Nevada
+
+> - Duración: 2h
+> - Desnivel: 150m+
+> - Transporte: SN en Estación de Autobuses hasta parada de Hoya de la Mora (?€)
+> - Logística: 🔧🚌
+
+### Carreteras
+
+* **`🟨A-4025🟨`** (7,52 km)
+* **`🟨A-4030🟨`** (7,38 km): Matriculada hasta Km 7 misteriosamente
+
+---
+
+## Ruta Lugros
+
+> - Duración: 2h 30min
+> - Desnivel: 600m+
+> - Transporte: Coche hasta Guadix
+> - Logística: 🔧🚗
+> - Ruta: https://maps.app.goo.gl/er3vCKwN4aVGCKbE9
+
+### Carreteras
+
+* **`🟨A-4100🟨`** (5,79 km): Está un poco escondido en un matorral (sentido creciente)
+* **`🟨A-92R1🟨`** (0,47 km)
+* **`🟨GR-4105🟨`** (13,10 km): En realidad el límite es el Km 12
+
+### Itinerario
+
+Dejamos el coche en Guadix noroeste y salimos por la **`🟨A-4100🟨`**. Giramos a la derecha para hacer la **`🟨A-92R1🟨`**. Seguimos por Purullena hasta terminar la **`🟨A-4100🟨`** y volvemos a Purullena para salir por la **`🟨GR-4104🟨`** durante un momento, giramos a la izquierda para meternos en la **`🟨GR-4105🟨`**. Vamos hasta Lugros y volvemos a Guadix por donde hemos venido.
+
+---
+
 ## Ruta Guadix
 
 > - Duración: 2h 40min
@@ -284,17 +318,42 @@ Dejamos el coche en Guadix y salimos hacia el sur haciendo la **`🟨A-4101R🟨
 
 ---
 
-## Ruta Alter. Sierra Nevada
+## Ruta Huéneja
 
-> - Duración: 2h
-> - Desnivel: 150m+
-> - Transporte: SN en Estación de Autobuses hasta parada de Hoya de la Mora (?€)
-> - Logística: 🔧🚌
+> - Duración: 1h 30min
+> - Desnivel: 240m+
+> - Transporte: Coche hasta Salida 321 de la A-92 (Huéneja)
+> - Logística: 🔧🚗
+> - Ruta: https://maps.app.goo.gl/31A1WgpPGvycSWZL9
 
 ### Carreteras
 
-* **`🟨A-4025🟨`** (7,52 km)
-* **`🟨A-4030🟨`** (7,38 km): Matriculada hasta Km 7 misteriosamente
+* **`🟨A-4103🟨`** (7,59 km)
+* **`🟨GR-6105🟨`** (>=3 km): El último Km es el 3
+* **`🟨GR-6104🟨`** (3,6 km)
+
+#### Itinerario
+
+Aparcamos en la gasolinera de la salida 321 de la **`🟧A-92🟧`**. Hacemos la **`🟨A-4103🟨`** por Huéneja y nos vamos a la Huertezuela. Nos metemos en la **`🟨GR-6105🟨`** y cuando la terminemos giramos a la derecha para llegar por la vía de servicio a la gasolinera de nuevo. Nos hacemos la **`🟨GR-6104🟨`** y volvemos al coche.
+
+---
+
+## Ruta Gor
+
+> - Duración: 1h 15min
+> - Desnivel: 225m+
+> - Transporte: Coche hasta Salida 16 de la A-92N (Gor)
+> - Logística: 🔧🚗
+> - Ruta: https://maps.app.goo.gl/zkZSrveEeDu2QRB29
+
+### Carreteras
+
+* **`🟨A-4104🟨`** (5,5 km)
+* **`🟨GR-6102🟨`** (8,5 km)
+
+### Itinerario
+
+Salimos haciendo la **`🟨A-4104🟨`** y llegamos a la salida 14 de la **`🟧A-92N🟧`**, cruzamos y vamos a Gor haciendo toda la **`🟨GR-6102🟨`**. y volviendo al coche.
 
 ---
 
@@ -404,6 +463,24 @@ Desde Tiena u Olivares, hacemos la **`🟨GR-3413🟨`** entera y nos dejamos ca
 
 ---
 
+## Ruta Cáñar
+
+> - Duración: 2h 20min
+> - Desnivel: 730m+
+> - Transporte: Coche hasta casa en ruinas después de Tíjola
+> - Logística: 🔧🚗
+
+### Carreteras
+
+* **`🟨GR-4202🟨`** (5,2 km)
+* **`🟨GR-4201🟨`** (5 km)
+
+### Itinerario
+
+Vamos hasta Órgiva por la **`🟨GR-4202🟨`** y nos metemos a la **`🟨A-4129🟨`** para meternos en la **`🟨GR-4201🟨`** y llegar hasta Cáñar. Volver por donde hemos venido.
+
+---
+
 ## Ruta Bermejales Este Variante
 
 > - Duración: 3h
@@ -427,6 +504,155 @@ Desde Tiena u Olivares, hacemos la **`🟨GR-3413🟨`** entera y nos dejamos ca
 ### Carreteras
 
 * **`🟨GR-4303🟨`** (10,1 km): En realidad el Límite es el Km 5 (Posiblemente esté mal 10,1)
+
+---
+
+## Ruta Huétor Tájar Villanueva Mesía
+
+> - Duración: 2h 30min
+> - Desnivel: 200m+
+> - Transporte: Coche a Loja
+> - Logística: 🔧🚗
+> - Ruta: https://maps.app.goo.gl/JM11GEW6HnTL4fA88
+
+### Carreteras
+
+* **`🟨GR-4407🟨`** (8,5 km): No parece estar el Km 0 en 2023. El espacio entre el Km 8 y la A-4154 no está kilometrizado (Dato 2013)
+* **`🟨GR-4403🟨`** (9,5 km)
+* **`🟨GR-4401🟨`** (2 km)
+* **`🟨GR-4400🟨`** (2,6 km)
+
+#### Itinerario
+
+Salimos desde Loja haciendo la **`🟨GR-4407🟨`** y llegamos a Huétor Tájar. Salimos para Villanueva Mesía haciendo la **`🟨GR-4403🟨`** y llegando a Tocón. Volvemos y en Villanueva Mesía vamos a la salida 206 de la A-92 haciendo la **`🟨GR-4401🟨`**. Vamos por la carretera pegados a la autovía hasta llegar a la rotonda de la **`🟨GR-4400🟨`**. Vamos un momento a hacerle la foto al km 0 y vamos a Huétor Tájar completando la **`🟨GR-4400🟨`**. Volvemos a Loja por la **`🟨GR-4407🟨`**.
+
+---
+
+## Ruta Charches
+
+> - Duración: 1h 45min / 2h 45min
+> - Desnivel: 375m+ / 500m+
+> - Transporte: Coche hasta Salida 312 de la A-92 (La Calahorra)
+> - Logística: 🔧🚗
+
+### Carreteras
+
+* **`🟨GR-6103🟨`** (13 km)
+* **`🟨GR-5200🟨`** (1,10 km)
+* **`🟨GR-5201🟨`** (2,80 km): Al parecer el límite no se encuentra, Hacer foto al Km 2
+
+### Itinerario
+
+Vamos a Charches y volvemos. Vamos si queremos a las **`🟨GR-5200🟨`** y **`🟨GR-5201🟨`**.
+
+---
+
+## Ruta Lújar
+
+> - Duración: 1h 30min
+> - Desnivel: 500m+
+> - Transporte: Coche hasta cruce **`🟨GR-5209🟨`** - **`🟨GR-5207🟨`**
+> - Logística: 🔧🚗
+
+### Carreteras
+
+* **`🟨GR-5207🟨`** (9,9 km)
+
+---
+
+## Ruta Lojilla
+
+> - Duración: 1h
+> - Desnivel: 350m+
+> - Transporte: Coche hasta cruce **`🟨A-335🟨`** - **`🟨GR-5401🟨`**
+> - Logística: 🔧🚗
+
+### Carreteras
+
+* **`🟨GR-5401🟨`** (5,7 km)
+
+---
+
+## Ruta Gorafe
+
+> - Duración: 2h 15min
+> - Desnivel: 550m+
+> - Transporte: Coche hasta Salida 16 de la A-92N (Gorafe)
+> - Logística: 🔧🚗
+
+### Carreteras
+
+* **`🟨GR-6100🟨`** (20,6 km): En realidad el límite es el Km 18
+
+---
+
+## Ruta Freila
+
+> - Duración: 2h
+> - Desnivel: 470m+
+> - Transporte: Coche hasta Cruce de la **`🟨GR-7100🟨`** - **`🟨GR-7101🟨`**
+> - Logística: 🔧🚗
+> - Ruta: https://maps.app.goo.gl/qsh4xAbc98wemrYN9
+
+### Carreteras
+
+* **`🟨GR-7101🟨`** (2,5 km)
+* **`🟨GR-8100🟨`** (10 km)
+
+### Itinerario
+
+Hacemos la **`🟨GR-7101🟨`** y luego nos metemos por la **`🟩A-315🟩`** para girar luego a la derecha para hacer la **`🟨GR-8100🟨`** pasando por Freila. Llegamos hasta la **`🟧A-92N🟧`** y volvemos por donde hemos venido.
+
+---
+
+## Ruta **`🟨GR-9100🟨`**
+
+> - Duración: 2h 15min
+> - Desnivel: 600m+
+> - Transporte: Coche hasta Cortijo San Roque en la **`🟨GR-9100🟨`**
+> - Logística: 🔧🚗
+
+### Carreteras
+
+* **`🟨GR-9100🟨`** (16 km)
+
+### Itinerario
+
+Desde el Cortijo San Roque, vamos un momento al Km 0. Hacemos la **`🟨GR-9100🟨`** y volvemos.
+
+---
+
+## Ruta **`🟨GR-9101🟨`**
+
+> - Duración: 1h 15min
+> - Desnivel: 100m+
+> - Transporte: Coche hasta Cruce de **`🟨GR-9101🟨`** - **`🟨A-4301🟨`**
+> - Logística: 🔧🚗
+
+### Carreteras
+
+* **`🟨GR-9101🟨`** (12,6 km)
+
+### Itinerario
+
+Desde el cruce de la **`🟨GR-9101🟨`** y la **`🟨A-4301🟨`**, hacemos la **`🟨GR-9101🟨`** y volvemos por donde hemos venido.
+
+---
+
+## Ruta **`🟨GR-9102🟨`**
+
+> - Duración: 1h 30min
+> - Desnivel: 240m+
+> - Transporte: Coche hasta Castilléjar
+> - Logística: 🔧🚗
+
+### Carreteras
+
+* **`🟨GR-9102🟨`** (12 km): No parece haber Km 12, el último es el Km 11
+
+### Itinerario
+
+Desde Castilléjar, hacemos la **`🟨GR-9102🟨`** y volvemos por donde hemos venido.
 
 ---
 
