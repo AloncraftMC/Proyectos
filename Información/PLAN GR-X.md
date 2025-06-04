@@ -698,3 +698,31 @@ Llegar de alguna manera hasta Noalejo. Salir del pueblo en dirección Avenida de
 * p.k. 83 - 100
 * p.k. 109 - 119
 * p.k. 134 - 194
+
+<div style="page-break-after: always;"></div>
+
+## Carreteras que requieren Asistencia
+
+- 🟥N-340🟥
+- 🟩A-330🟩
+- 🟩A-317🟩
+- 🟩A-325🟩
+- 🟩A-326🟩
+- 🟩A-335🟩
+- 🟩A-337🟩
+- 🟩A-341🟩
+- 🟩A-345🟩
+- 🟩A-348🟩
+- 🟩A-402🟩
+- 🟨A-4126🟨
+- 🟨A-4127🟨
+- 🟨A-4128🟨
+- 🟨A-4130🟨
+- 🟨A-4131🟨
+- 🟨A-4132🟨
+- 🟨A-4134🟨
+- 🟨A-4135🟨
+- 🟨A-4136🟨
+- 🟨A-4150🟨
+- 🟨A-4152🟨
+- 
