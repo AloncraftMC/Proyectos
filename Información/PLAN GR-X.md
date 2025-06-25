@@ -20,8 +20,9 @@
 - [Ruta Huélago, Moreda & Píñar](#ruta-huélago-moreda--píñar)
 - [Ruta A-92n't](#ruta-a-92nt)
 - [Ruta Alter. Sierra Nevada](#ruta-alter-sierra-nevada)
+- [Ruta Lugros](#ruta-lugros)
 - [Ruta Guadix](#ruta-guadix)
-- [Ruta Huéneja](#ruta-hueneja)
+- [Ruta Huéneja](#ruta-huéneja)
 - [Ruta Gor](#ruta-gor)
 - [Ruta Píñar](#ruta-píñar)
 - [Ruta Bajada a La Playa por el Oeste](#ruta-bajada-a-la-playa-por-el-oeste)
@@ -42,6 +43,10 @@
 - [Ruta `🟨GR-9101🟨`](#ruta-gr-9101)
 - [Ruta `🟨GR-9102🟨`](#ruta-gr-9102)
 - [Ruta `🟥N-323🟥`](#ruta-n-323)
+
+---
+
+- [Carreteras que requieren Asistencia](#carreteras-que-requieren-asistencia)
 
 ---
 
@@ -363,6 +368,23 @@ Aparcamos en la gasolinera de la salida 321 de la **`🟧A-92🟧`**. Hacemos la
 ### Itinerario
 
 Salimos haciendo la **`🟨A-4104🟨`** y llegamos a la salida 14 de la **`🟧A-92N🟧`**, cruzamos y vamos a Gor haciendo toda la **`🟨GR-6102🟨`**. y volviendo al coche.
+
+---
+
+## Ruta Salar
+
+> - Duración: 3h
+> - Desnivel: 800m
+> - Transporte: Coche hasta Alhama de Granada
+> - Logística: 🔧🚗
+
+### Carreteras
+
+* **`🟨A-4155🟨`** (25,14 km)
+
+### Itinerario
+
+Vamos desde Alhama hasta la salida 197 de la **`🟧A-92🟧`** (la de Salar) y volvemos.
 
 ---
 
@@ -703,26 +725,35 @@ Llegar de alguna manera hasta Noalejo. Salir del pueblo en dirección Avenida de
 
 ## Carreteras que requieren Asistencia
 
-- 🟥N-340🟥
-- 🟩A-330🟩
-- 🟩A-317🟩
-- 🟩A-325🟩
-- 🟩A-326🟩
-- 🟩A-335🟩
-- 🟩A-337🟩
-- 🟩A-341🟩
-- 🟩A-345🟩
-- 🟩A-348🟩
-- 🟩A-402🟩
-- 🟨A-4126🟨
-- 🟨A-4127🟨
-- 🟨A-4128🟨
-- 🟨A-4130🟨
-- 🟨A-4131🟨
-- 🟨A-4132🟨
-- 🟨A-4134🟨
-- 🟨A-4135🟨
-- 🟨A-4136🟨
-- 🟨A-4150🟨
-- 🟨A-4152🟨
-- 
+|Matrícula|Título|Longitud (km)|
+|-|-|-|
+|`🟥N-340🟥`|Carretera del Mediterráneo|~74|
+|`🟩A-330🟩`|De Cúllar a Puebla de Don Fadrique por Huéscar|65,14|
+|`🟩A-317🟩`|De La Puerta de Segura a Vélez Rubio|~54|
+|`🟩A-325🟩`|De Moreda a Guadix por Pedro Martínez|41,63|
+|`🟩A-326🟩`|De Pozo Alcón a Huéscar|~39|
+|`🟩A-335🟩`|De Alcalá La Real a Moraleda de Zafayona|~37|
+|`🟩A-337🟩`|De Cherín a La Calahorra|41,9|
+|`🟩A-341🟩`|De Loja a Ventas de Zafarraya|33,89|
+|`🟩A-345🟩`|De Cádiar a La Rábita|32,17|
+|`🟩A-348🟩`|De Lanjarón a Almería por Ugíjar|~71|
+|`🟩A-402🟩`|De Moraleda de Zafayona a Viñuela|~45|
+|`🟨A-4130🟨`|De Torvizcón a Laroles|55,62|
+|`🟨A-4131🟨`|De A-348 a Albuñol|34,55|
+|`🟨A-4132🟨`|De Órgiva a Trevélez|41,78|
+|`🟨A-4154🟨`|De Loja (A-92) a Priego de Córdoba (A-333) por Algarinejo|~40|
+|`🟨A-4200🟨`|De Baza a Huéscar por Benamaurel|42,1|
+|`🟨A-4301🟨`|De Huéscar a A-317|39,5|
+|`🟨GR-3100🟨`|De N-323a (Venta de la Nava) a JA-4204 (L.P. de Jaén)|29,7|
+|`🟨GR-3302🟨`|De A-4050 a A-4150 (Játar)|24,9|
+|`🟨GR-3410🟨`|De N-432 (Puerto Lope) a A-4154|35|
+|`🟨GR-4405🟨`|De N-323a a Montillana y Trujillos|23|
+|`🟨GR-5100🟨`|De Montejícar a GR-6101 (Dehesas de Guadix)|
+|`🟨GR-5101🟨`|De Torre-Cardela a GR-6101 (Villanueva de Las Torres)|28,4|
+|`🟨GR-5202🟨`|De A-345 (Venta del Empalme) a A-4136 (Cruce de las Palomas)|29,2|
+|`🟨GR-5206🟨`|De A-4131 a N-340 (Castell de Ferro) por Rubite|15|
+|`🟨GR-5300🟨`|De A-4050 (Jete) a N-323|15,9|
+|`🟨GR-5400🟨`|De A-4154 (Ventorros de San José) a Algarinejo|27|
+|`🟨GR-6101🟨`|De A-92N a Alicún de Ortega (L.P.Jaén)|36,2|
+|`🟨GR-6204🟨`|De A-4131 a N-340 (Castillo de Baños)|14,4|
+|`🟨GR-8101🟨`|De Límite de Provincia de Almería a Caniles|28,9|
