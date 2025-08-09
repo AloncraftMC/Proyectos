@@ -25,7 +25,6 @@
 - [Ruta Huéneja](#ruta-huéneja)
 - [Ruta Gor](#ruta-gor)
 - [Ruta Píñar](#ruta-píñar)
-- [Ruta Bajada a La Playa por el Oeste](#ruta-bajada-a-la-playa-por-el-oeste)
 - [Ruta Bermejales Este](#ruta-bermejales-este)
 - [Ruta Subida Íllora](#ruta-subida-íllora)
 - [Ruta Moclín](#ruta-moclín)
@@ -404,25 +403,6 @@ Vamos desde Alhama hasta la salida 197 de la **`🟧A-92🟧`** (la de Salar) y 
 #### Itinerario
 
 Desde Diezma a Darro por la **`🟨GR-3106🟨`**, e ir por la **`🟩A-308🟩`** hasta la **`🟨GR-3105🟨`**. Llegar hasta la **`🟩A-4001🟩`** y volver por ella y por la **`🟩A-323🟩`**, `🟩A-308🟩`, Iznalloz, Deifontes y la **`🟥N-323🟥`** a casa.
-
----
-
-## Ruta Bajada a La Playa por el Oeste
-
-> - Duración: 3h
-> - Desnivel: 520m+
-> - Transporte: Coger 0360 / 0361 En Congresos hasta cruce N-323 con GR-3205 (Nigüelas)
-> - Logística: 🚌
-
-### Carreteras
-
-* **`🟨GR-4203🟨`** (2,00 km): Al parecer el límite no se encuentra, Hacer foto al Km 1
-* **`🟨GR-4300🟨`** (5,50 km): Al parecer el límite no se encuentra, Hacer foto al Km 4 (*EXTRA*)
-* **`🟨GR-3204🟨`** (32,62 km): Al parecer el límite no se encuentra, Hacer foto al Km 31
-
-#### Itinerario
-
-Desde el cruce de Nigüelas nos deslizamos hasta Lecrín por la **`🟥N-323🟥`**. Vamos a la derecha para continuar por la **`🟨GR-3204🟨`** hasta Guájar-Faragüit. Si hacemos el reto opcional, seguimos por la **`🟨GR-4300🟨`** hasta Guájar Alto y volvemos de la misma manera hasta el cruce con la **`🟨GR-4203🟨`**, carretera la cual bajamos hasta Guájar Fondón y subimos. Nos dejamos caer hasta la **`🟥N-323🟥`** y continuamos hasta la **`🟥N-340🟥`** para llegar a Torrenueva.
 
 ---
 
