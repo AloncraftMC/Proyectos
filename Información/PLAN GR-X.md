@@ -34,7 +34,6 @@
 - [Ruta Bermejales Oeste](#ruta-bermejales-oeste)
 - [Ruta Huétor Tájar Villanueva Mesía](#ruta-huétor-tájar-villanueva-mesía)
 - [Ruta Charches](#ruta-charches)
-- [Ruta Lújar](#ruta-lújar)
 - [Ruta Lojilla](#ruta-lojilla)
 - [Ruta Gorafe](#ruta-gorafe)
 - [Ruta Freila](#ruta-freila)
@@ -555,19 +554,6 @@ Salimos desde Loja haciendo la **`🟨GR-4407🟨`** y llegamos a Huétor Tájar
 ### Itinerario
 
 Vamos a Charches y volvemos. Vamos si queremos a las **`🟨GR-5200🟨`** y **`🟨GR-5201🟨`**.
-
----
-
-## Ruta Lújar
-
-> - Duración: 1h 30min
-> - Desnivel: 500m+
-> - Transporte: Coche hasta cruce **`🟨GR-5209🟨`** - **`🟨GR-5207🟨`**
-> - Logística: 🔧🚗
-
-### Carreteras
-
-* **`🟨GR-5207🟨`** (9,9 km)
 
 ---
 
