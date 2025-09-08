@@ -40,7 +40,6 @@
 - [Ruta `🟨GR-9100🟨`](#ruta-gr-9100)
 - [Ruta `🟨GR-9101🟨`](#ruta-gr-9101)
 - [Ruta `🟨GR-9102🟨`](#ruta-gr-9102)
-- [Ruta `🟥N-323🟥`](#ruta-n-323)
 
 ---
 
@@ -557,6 +556,19 @@ Vamos a Charches y volvemos. Vamos si queremos a las **`🟨GR-5200🟨`** y **`
 
 ---
 
+# Ruta 🟨GR-5300🟨
+
+> - Duración: 1h 30min
+> - Desnivel: 330m+
+> - Transporte: Alsa hasta Otívar
+> - Logística: 🔧🚌
+
+### Carreteras
+
+* **`🟨GR-5300🟨`** (15,9 km)
+
+---
+
 ## Ruta Lojilla
 
 > - Duración: 1h
@@ -653,40 +665,6 @@ Desde Castilléjar, hacemos la **`🟨GR-9102🟨`** y volvemos por donde hemos 
 
 ---
 
-## Ruta `🟥N-323🟥`
-
-> - Duración: 6h 30min
-> - Desnivel: 800m+
-> - Transporte: Medio a Noalejo
-> - Logística: 🔧🚗/🚌
-> - Ruta: https://maps.app.goo.gl/EKiHwqFsZWQVgPt78
-
-### Carreteras
-
-* **`🟥N-323🟥`** (115 km): Hacer foto al límite provincial
-
-#### Itinerario
-
-Llegar de alguna manera hasta Noalejo. Salir del pueblo en dirección Avenida de la Constitución. (**`🟨JA-3208🟨`**). En el cruce, ir a la derecha sentido **`🟦A-44🟦`**. Avanzar y en la rotonda tomar la primera salida por el camino sin sentidos delimitados. Continuar durante un poco hasta entrar en un carril de deceleración que da a una gasolinera BP. Seguir recto, ya habrá sentidos delimitados. En la rotonda, seguir recto por **`🟥N-323🟥`** pasando por Campotéjar a nuestra izquierda hasta el cruce con la **`🟩A-403🟩`**. Girar a la izquierda sentido **`🟩A-403🟩`** **`🟥N-323a🟥`** Dehesas Viejas. Inmediatamente después de incorporarnos a la **`🟩A-403🟩`** y pasar la Venta de Andar, la abandonamos girando a la derecha sentido **`🟥N-323🟥`** Puerto Zegrí. Continuamos por la **`🟥N-323🟥`**, esta es la parte montañosa. Llegamos a la rotonda de la **`🟩A-308🟩`**, continuamos tomando la primera salida por la vía de servicio con carriles delimitados. Al llegar al área de servicio *El 402*, continuamos por el camino rural recto, el cual comienza por bordear el carril de aceleración. En el paso a distinto nivel de más adelante, no cruzamos por debajo, seguimos recto. En la salida de la autovía hacemos lo mismo, seguir recto por **Romeroliva**. Un poco después el camino cruzará la autovía por debajo. El camino llegará a una gasolinera que quedará a nuestra derecha. Continuar por el camino sólo un poco porque inmediatamente después tenemos que girar a la derecha para cruzar la autovía de nuevo por debajo. Esta parte no está mapeada en Google Maps. Continuar recto por el camino hasta la rotonda de la salida de Deifontes. Continuar por la **`🟥N-323🟥`**, que aparece de nuevo, y llegar hasta El Chaparral. Nada más llegar a el cruce de la **`🟦GR-30🟦`** tomamos la carretera en dirección La Cartuja y Urbanizaciones. Seguimos paralelos a la **`🟦GR-30🟦`** hasta que la carretera se hace tierra (hasta 2022 parece) y él mismo gira a la derecha. Seguir el camino sin salirse hasta llegar a un STOP. Aquí girar a la izquierda y seguir recto hasta llegar a la vía de servicio de la **`🟧A-92🟧`**. Aquí girar a la derecha y cuando lleguemos a la intersección ir por Albolote. Seguimos todo recto y atravesaremos Albolote, Maracena y entraremos en Granada por la rotonda de Europa. Tomar salida Avenida Francisco Ayala y en la rotonda norte de Villarejo continuar dirección Caleta. Todo recto por Avenida de la Constitución, Gran Vía, Reyes Católicos, Acera del Darro y Fernando de los Ríos hasta carril bici de Armilla. Llegar a Alhendín y seguir recto por la **`🟥N-323🟥`**, pasando por el Suspiro del Moro, El Puntal, El Padul y Dúrcal. En la rotonda de la salida de Dúrcal Nigüelas de la **`🟦A-44🟦`**, tomar la cuarta salida (girar a la izquierda) y en la inmediata rotonda después girar a la derecha para continuar recto por Nigüelas, Talará y Béznar. En la salida 164 de la **`🟦A-44🟦`**, cruzarla a través de las dos rotondas e ir dirección Lanjarón **`🟩A-348🟩`**. Inmediatamente después girar a la derecha en dirección **`🟥N-323a🟥`**. Desde aquí es todo recto pasando por la Venta de las Angustias, la salida de Ízbor Acebuches, Vélez de Benaudalla y La Bernardilla, hasta llegar a la **`🟦GR-14🟦`**. Continuar recto por la **`🟥N-323🟥`** y exactamente lo mismo en el siguiente cruce con la **`🟥N-340🟥`**. Llegaremos al puerto de Motril y GG. Para salir del Varadero, continuar girando a la izquierda en la misma rotonda y en la siguiente y continuar hasta el cruce de la **`🟥N-340🟥`**, ir en dirección Torrenueva y llegaremos a la casa.
-
-### Tramos
-
-1. **Noalejo - Salida 79**: Sin Carriles `[10min 4km]`
-2. **Salida 79 - Campotéjar**: Carriles `[7min 3,1km]`
-3. **Campotéjar - Venta de La Nava**: N-323a Montañosa `[1h 16km ↑213m]`
-4. **Venta de La Nava - El 402**: Carriles `[5min 1,8km]`
-5. **El 402 - Deifontes**: Camino de Tierra `[26min 9,6km]`
-6. **Deifontes - El Chaparral**: N-323a Plana `[35min 11,4km ↑75m]`
-7. **El Chaparral - Albolote**: Sin Carriles `[11min 3,8km]`
-8. **Albolote - Armilla**: Calles `[40min 11,9km ↑30m]`
-9. **Armilla - Motril**: N-323 Clásica `[3h10min 61,8km ↑420m]`
-
-#### Rangos Kilometrizados
-
-* p.k. 83 - 100
-* p.k. 109 - 119
-* p.k. 134 - 194
-
 <div style="page-break-after: always;"></div>
 
 ## Carreteras que requieren Asistencia
@@ -718,7 +696,6 @@ Llegar de alguna manera hasta Noalejo. Salir del pueblo en dirección Avenida de
 |`🟨GR-5101🟨`|De Torre-Cardela a GR-6101 (Villanueva de Las Torres)|28,4|
 |`🟨GR-5202🟨`|De A-345 (Venta del Empalme) a A-4136 (Cruce de las Palomas)|29,2|
 |`🟨GR-5206🟨`|De A-4131 a N-340 (Castell de Ferro) por Rubite|15|
-|`🟨GR-5300🟨`|De A-4050 (Jete) a N-323|15,9|
 |`🟨GR-5400🟨`|De A-4154 (Ventorros de San José) a Algarinejo|27|
 |`🟨GR-6101🟨`|De A-92N a Alicún de Ortega (L.P.Jaén)|36,2|
 |`🟨GR-6204🟨`|De A-4131 a N-340 (Castillo de Baños)|14,4|
