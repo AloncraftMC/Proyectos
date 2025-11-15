@@ -179,7 +179,7 @@ Empezamos desde el Ayuntamiento de Loja y vamos hasta la Salida 188 de la **`�
 
 ---
 
-## Ruta `🟩A-338🟩`
+## Ruta `🟩A-338🟩` (Pendiente Finalización Obras Metropolitano)
 
 > - Duración: 3h  
 > - Desnivel: 651m+  
@@ -201,8 +201,6 @@ Empezamos desde el Ayuntamiento de Loja y vamos hasta la Salida 188 de la **`�
 
 ### Carreteras
 
-* **`🟨A-395R2🟨`** (1,7 km): Sin kilometrizar
-* **`🟨A-395R1🟨`** (0,68 km): Sin kilometrizar
 * **`🟩A-395🟩`** (50,12 km): Hacer foto al límite de Carretera Convencional
 
 #### Itinerario
@@ -281,7 +279,6 @@ Partimos de Diezma a Darro, y de ahí hasta la tienda de porcelana de la **`🟧
 ### Carreteras
 
 * **`🟨A-4025🟨`** (7,52 km)
-* **`🟨A-4030🟨`** (7,38 km): Matriculada hasta Km 7 misteriosamente
 
 ---
 
@@ -556,7 +553,7 @@ Vamos a Charches y volvemos. Vamos si queremos a las **`🟨GR-5200🟨`** y **`
 
 ---
 
-# Ruta 🟨GR-5300🟨
+## Ruta 🟨GR-5300🟨
 
 > - Duración: 1h 30min
 > - Desnivel: 330m+
