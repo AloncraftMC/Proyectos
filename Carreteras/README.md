@@ -23,7 +23,6 @@
 - [Ruta Lugros](#ruta-lugros)
 - [Ruta Guadix](#ruta-guadix)
 - [Ruta Huéneja](#ruta-huéneja)
-- [Ruta Gor](#ruta-gor)
 - [Ruta Píñar](#ruta-píñar)
 - [Ruta Bermejales Este](#ruta-bermejales-este)
 - [Ruta Subida Íllora](#ruta-subida-íllora)
@@ -280,12 +279,11 @@ Partimos de Diezma a Darro, y de ahí hasta la tienda de porcelana de la **`🟧
 ### Carreteras
 
 * **`🟨A-4100🟨`** (5,79 km): Está un poco escondido en un matorral (sentido creciente)
-* **`🟨A-92R1🟨`** (0,47 km)
 * **`🟨GR-4105🟨`** (13,10 km): En realidad el límite es el Km 12
 
 #### Itinerario
 
-Dejamos el coche en Guadix noroeste y salimos por la **`🟨A-4100🟨`**. Giramos a la derecha para hacer la **`🟨A-92R1🟨`**. Seguimos por Purullena hasta terminar la **`🟨A-4100🟨`** y volvemos a Purullena para salir por la **`🟨GR-4104🟨`** durante un momento, giramos a la izquierda para meternos en la **`🟨GR-4105🟨`**. Vamos hasta Lugros y volvemos a Guadix por donde hemos venido.
+Dejamos el coche en Guadix noroeste y salimos por la **`🟨A-4100🟨`**. Seguimos por Purullena hasta terminar la **`🟨A-4100🟨`** y volvemos a Purullena para salir por la **`🟨GR-4104🟨`** durante un momento, giramos a la izquierda para meternos en la **`🟨GR-4105🟨`**. Vamos hasta Lugros y volvemos a Guadix por donde hemos venido.
 
 ---
 
@@ -331,25 +329,6 @@ Dejamos el coche en Guadix y salimos hacia el sur haciendo la **`🟨A-4101R🟨
 #### Itinerario
 
 Aparcamos en la gasolinera de la salida 321 de la **`🟧A-92🟧`**. Hacemos la **`🟨A-4103🟨`** por Huéneja y nos vamos a la Huertezuela. Nos metemos en la **`🟨GR-6105🟨`** y cuando la terminemos giramos a la derecha para llegar por la vía de servicio a la gasolinera de nuevo. Nos hacemos la **`🟨GR-6104🟨`** y volvemos al coche.
-
----
-
-## Ruta Gor
-
-> - Duración: 1h 15min
-> - Desnivel: 225m+
-> - Transporte: Coche hasta Salida 16 de la A-92N (Gor)
-> - Logística: 🔧🚗
-> - Ruta: https://maps.app.goo.gl/zkZSrveEeDu2QRB29
-
-### Carreteras
-
-* **`🟨A-4104🟨`** (5,5 km)
-* **`🟨GR-6102🟨`** (8,5 km)
-
-### Itinerario
-
-Salimos haciendo la **`🟨A-4104🟨`** y llegamos a la salida 14 de la **`🟧A-92N🟧`**, cruzamos y vamos a Gor haciendo toda la **`🟨GR-6102🟨`**. y volviendo al coche.
 
 ---
 
